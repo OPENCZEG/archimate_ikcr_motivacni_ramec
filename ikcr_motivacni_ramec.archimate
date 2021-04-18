@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="IKČR motivační rámec 1.0" id="id-0a9765a620524d37bf1a41d1db986b81" version="4.6.0">
+  <folder name="Strategy" id="id-45e2aeb753d848afa0c4cb7776adae1a" type="strategy"/>
+  <folder name="Business" id="id-e932e8d9a790486890966a814524c54c" type="business">
+    <folder name="Objekty IKČR" id="id-2781215d97f344258bcf81eaefca1000">
+      <element xsi:type="archimate:Contract" name="Informační koncepce ČR" id="ikcr">
+        <documentation>Informační koncepce ČR je závazným koncepčním dokumentem stanovujícím principy a zásady a cíle pro rozvoj veřejné správy a eGovernmentu. OVM a OVS se podle ní musejí řídit, stanoví to § 5 a § 5a, zákona 365/2000. / https://archi.gov.cz/ikcr-dokument:ikcr</documentation>
+      </element>
+      <element xsi:type="archimate:Contract" name="Metody řízení ICT VS" id="ikcr-mrict">
+        <documentation>Dokument popisuje doporučující metody pro řízení ICT a rozvoje IT ve veřejné správě.</documentation>
+      </element>
+      <element xsi:type="archimate:Contract" name="Národní architektonický plán" id="ikcr-nap">
+        <documentation>Závazný předpis Národní architektonický plán stanovuje povinnosti využívání sdílených služeb eGovernmentu a povinnosti související s rozvojem EG služeb a architektury těchto služeb.</documentation>
+      </element>
+      <element xsi:type="archimate:Contract" name="Národní architektonický rámec" id="ikcr-nar">
+        <documentation>Závazný předpis pro zpracování architektury a architektonických modelů ve veřejné správě</documentation>
+      </element>
+    </folder>
+  </folder>
+  <folder name="Application" id="id-e4676bbc3fb940578af46e3703cc7ddb" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-27391ee160db4f1a951f438cfede286c" type="technology"/>
+  <folder name="Motivation" id="id-4d168a536ff14b2ba28f8775dfc0b266" type="motivation">
+    <folder name="Objekty IKČR" id="id-08dc0bb7abdc4ce39d15d6d89eb04392">
+      <element xsi:type="archimate:Principle" name="Architektonický princip P01: Standardně digitalizované" id="ikcr-P01">
+        <documentation>Orgány veřejné správy mají poskytovat služby primárně digitálně a samoobslužně (v různých formách, jako digitální dokumenty i strojově čitelné údaje); zároveň musí udržovat otevřené i další kanály pro ty, kteří nemohou buď z vlastního rozhodnutí, nebo z technických důvodů využívat digitální služby. Kromě toho veřejné služby mají být poskytovány i asistovaně prostřednictvím jednotného kontaktního místa a prostřednictvím různých obslužných kanálů. Subjekt práva musí však mít právo zvolit si pro komunikaci s veřejnou správou i tradiční obslužné přepážky jednotlivých OVM (opt – out princip).</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P02: Zásada „pouze jednou“" id="ikcr-P02">
+        <documentation>Orgány veřejné správy musí zaručit, že občané a podniky poskytují stejné informace celé veřejné správě pouze jednou. Je-li to zákonem povolené, orgány veřejné správy využívají při výkonu působnosti tyto sdílené údaje opakovaně, přičemž musí dodržovat pravidla ochrany údajů.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P03: Podpora začlenění a přístupnost" id="ikcr-P03">
+        <documentation>Orgány veřejné správy musí digitální veřejné služby koncipovat tak, aby standardně podporovaly začlenění a vyhovovaly různým potřebám např. starších lidí a lidí s postižením (přístupnost).</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P04: Otevřenost a transparentnost" id="ikcr-P04">
+        <documentation>Orgány veřejné správy mezi sebou mají sdílet informace a data a musí občanům a podnikům umožnit přístup ke kontrole vlastních údajů a možné opravě; musí uživatelům umožnit sledování správních procesů, které se jich týkají a musí do koncipování a poskytování služeb zapojit zúčastněné strany (například podniky, výzkumné pracovníky a neziskové organizace) a spolupracovat s nimi.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P05: Přeshraniční přístup jako standard" id="ikcr-P05">
+        <documentation>Orgány veřejné správy mají relevantní digitální služby zpřístupnit napříč hranicemi a mají zabránit dalšímu růstu jejich fragmentace, a tím usnadnit mobilitu na jednotném trhu.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P06: Interoperabilita jako standard" id="ikcr-P06">
+        <documentation>Veřejné služby mají být koncipovány tak, aby hladce fungovaly v rámci celého jednotného trhu a napříč různými organizačními jednotkami, a opíraly se o volný pohyb údajů a digitálních služeb v Evropské unii. Současně je nezbytné zajistit interoperabilitu veřejných služeb uvnitř veřejné správy ČR jako předpoklad odstranění místní příslušnosti a snížení omezujícího vlivu věcné příslušnosti služeb VS na jejich klienty.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P07: Důvěryhodnost a bezpečnost" id="ikcr-P07">
+        <documentation>Všechny iniciativy mají přesahovat pouhé dodržování právního rámce pro ochranu osobních údajů a soukromí a bezpečnost informačních technologií a mají tyto prvky zahrnout již do fáze přípravy architektury výkonu služeb veřejné správy.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P08: Jeden stát" id="ikcr-P08">
+        <documentation>Všechny iniciativy a veřejné služby mají být postaveny na společném přístupu ministerstev a dalších OVM k vytvoření a poskytování služeb veřejné správy a postupném odbourávání nežádoucího resortismu a tvorby duplicit. Zásadou je sdílení nezbytné infrastruktury pro realizaci jednotlivých služeb na všech úrovních veřejné správy i mezi nimi.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P09: Sdílené služby veřejné správy" id="ikcr-P09">
+        <documentation>Budování a využívání sdílených služeb ve veřejné správě je jedním ze základních principů eGovernmentu. Pokud bude výsledkem nové či upravované legislativy služba veřejné správy, má být koncipována jako služba sdílená nebo s využitím existujících sdílených služeb.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P10: Připravenost na změny" id="ikcr-P10">
+        <documentation>Procesy i IT řešení podpory poskytování služeb veřejné správy musí být navrhovány tak, aby umožňovaly efektivně implementovat rozhodnutí reagující pružně na změnu zákonných parametrů služeb, změnu technologie, změnu dodavatele a další přicházející změny a potřeby.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P11: eGovernment jako platforma" id="ikcr-P11">
+        <documentation>Požadavky a služby veřejné správy, stejně jako technické prostředky pro jejich naplnění, musí být co nejlépe „vestavěny“ do každodenních procesů a funkcí klientů veřejné správy, občanů a zejména podniků, a jejich běžných IT a komunikačních prostředků tak, aby pro ně bylo co nejsnazší dostát svým povinnostem vůči veřejné správě a dosáhnout svých práv.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P12: Vnitřně pouze digitální" id="ikcr-P12">
+        <documentation>Jediný, kdo má právo vyžadovat listinné vstupy nebo výstupy je pouze klient veřejné správy. Od přijetí podání až do vypravení a doručení rozhodnutí nebo jiného výstupu, stejně jako komunikace mezi úřady navzájem a všechny interní provozní procesy veřejné správy musí být plně elektronické, bezpapírové – pokud jej jejich zavedení v této podobě hospodárné (3E) a potřebné pro sdílení údajů. Jenom tak mohou být naplněny ostatní výše uvedené principy.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P13: Otevřená data jako standard" id="ikcr-P13">
+        <documentation>Veřejné údaje evidované orgány veřejné správy ve spravovaných ISVS musí být zveřejňovány jako otevřená data. Pro neveřejné údaje musí být jako otevřená data zveřejňována jejich anonymizovaná podoba, souhrn nebo statistika, nebo obdobná forma, pokud může mít význam pro uživatele těchto dat. V případě, že orgány veřejné správy sdílejí veřejné údaje (včetně anonymizované podoby neveřejných údajů, souhrnů nebo statistik) musí je sdílet jako otevřená data.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P14: Technologická neutralita" id="ikcr-P14">
+        <documentation>Digitální služby veřejné správy musí být technologicky nezávislé a neutrální. Musí být garantováno, že přístup k veřejným službám není závislý na konkrétní (předem určené) platformě či technologii.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P15: Uživatelská přívětivost" id="ikcr-P15">
+        <documentation>Musí být kladen důraz na uživatelskou přívětivost zaváděných digitálních služeb veřejné správy pro různé skupiny, segmenty uživatelů. Služby musí být na prvním místě srozumitelné, uzpůsobené rozdílným požadavkům různých cílových skupin uživatelů služeb v populaci. Služba má být z hlediska uživatelského rozhraní otevřená, nesmí se omezovat na proprietární rozhraní nebo jediný standard a předjímat jediný způsob využití služby.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P16: Konsolidace a propojování informačních systémů veřejné správy" id="ikcr-P16">
+        <documentation>Je nutno budovat ISVS efektivně a snažit se i pro nové úkoly využívat v maximální míře již systémy stávající. Informační systémy veřejné správy je nutné rozložit do procesně (funkčně) ucelených menších komponent, a tyto komponenty maximálně sdílet pro obdobné požadavky více agend jednoho OVS nebo i mezi nimi.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Architektonický princip P17: Omezení budování monolitických systémů" id="ikcr-P17">
+        <documentation>Soutěžení menších, vzájemně provázaných celků bude znamenat více možností dodávat státu i pro menší spolehlivé dodavatele. Cílem je soutěžit nejlepší řešení v dané oblasti, ne největší řešení na trhu.</documentation>
+      </element>
+      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 1: UŽIVATELSKY PŘÍVĚTIVÉ A EFEKTIVNÍ „ON-LINE“ SLUŽBY PRO OBČANY A FIRMY" id="ikcr-c100"/>
+      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 2: DIGITÁLNĚ PŘÍVĚTIVÁ LEGISLATIVA" id="ikcr-c200"/>
+      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 3: ROZVOJ PROSTŘEDÍ PODPORUJÍCÍHO DIGITÁLNÍ TECHNOLOGIE V OBLASTI eGOVERNMENTU" id="ikcr-c300"/>
+      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 4: ZVÝŠENÍ KAPACIT A KOMPETENCÍ ZAMĚSTNANCŮ VE VEŘEJNÉ SPRÁVĚ" id="ikcr-c400"/>
+      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 5: EFEKTIVNÍ A CENTRÁLNĚ KOORDINOVANÉ ICT VEŘEJNÉ SPRÁVY" id="ikcr-c500"/>
+      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 6: EFEKTIVNÍ A PRUŽNÝ DIGITÁLNÍ ÚŘAD" id="ikcr-c600"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.1: Katalog služeb veřejné správy" id="ikcr-c101"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.2: Informování o službách veřejnosti" id="ikcr-c102"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.3: Rozvoj univerzálních front-office služeb" id="ikcr-c103"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.4: Rozvoj klientských služeb resortů" id="ikcr-c104"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.5: Rozvoj Národního katalogu otevřených dat" id="ikcr-c105"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.6: Stanovení rolí a zodpovědnosti za služby OVM" id="ikcr-c106"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.7: Systém zapojení veřejnosti a subjektů do zlepšování EG služeb" id="ikcr-c107"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.8: Metodiky a principy uživatelské přívětivosti" id="ikcr-c108"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.1: Zajistit povinnost vytváření digitálně přívětivé legislativy" id="ikcr-c201"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.2: Podíl na tvorbě evropské legislativy" id="ikcr-c202"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.3: Projekty eSbírka a eLegislativa" id="ikcr-c203"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.4: Analyzování a úpravy právních předpisů pro služby EG" id="ikcr-c204"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.5: Zakotvení práva na digitální služby" id="ikcr-c205"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.6: Aktualizace legislativy k eGovernmentu" id="ikcr-c206"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.7: Analýza služeb EG směrem ke komerčnímu sektoru a klientům" id="ikcr-c207"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.8: Metodika pro veřejné zakázky v ICT a EG" id="ikcr-c208"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.9: Nové návrhy právních předpisů na podporu eGovernmentu" id="ikcr-c209"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.1: Využití prostředků ESF na rozvoj digitalizace" id="ikcr-c301"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.2: Digitalizace dosud nedigitalizovaného obsahu" id="ikcr-c302"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.3: Digitalizace a správa úředních dokumentů a úředního obsahu" id="ikcr-c303"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.4: Zkvalitnění Registru práv a povinností a jeho obsahu" id="ikcr-c304"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.5: Rozvoj komunikační infrastruktury státu" id="ikcr-c305"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.6: Rozvoj systémů elektronické identifikace (EID)" id="ikcr-c306"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.7: Prostorová data" id="ikcr-c307"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.8: Kybernetická bezpečnost" id="ikcr-c308"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.1: Úpravy systemizace a katalogizace profesí v IT a DPL" id="ikcr-c401"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.2: Opatření pro získání a udržení klíčových specialistů v rámci veřejné správy" id="ikcr-c402"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.3: Intenzivní spolupráce s vysokými školami" id="ikcr-c403"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.4: Sdílená kompetenční centra a zvyšování kapacit" id="ikcr-c404"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.5: Institucionalizace klíčových útvarů a rolí v úřadech" id="ikcr-c405"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.6: Kompetence a zdroje pro realizaci změn" id="ikcr-c406"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.7: Zavedení procesního řízení a řízení služeb ve veřejné správě" id="ikcr-c407"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.8: Rozvoj systému vzdělávání a odborné přípravy zaměstnanců veřejné správy směrem k EG" id="ikcr-c408"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.10: Rozvoj otevřených dat a veřejného fondu dat a služeb veřejné správy" id="ikcr-c510"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.11: Rozvoj geoinformatiky a prostorových informací" id="ikcr-c511"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.12: Hodnocení realizace IKČR a zpětná vazba" id="ikcr-c512"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.13: IS nové generace" id="ikcr-c513"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.1: Implementace procesu řízení IKČR" id="ikcr-c501"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.2: Alokace lidských a institucionálních zdrojů pro realizaci IKČR" id="ikcr-c502"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.3: Zavedení principů pro řízení a rozvoj architektury v úřadech" id="ikcr-c503"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.4: Realizace modelu spolupráce OVM a podniků poskytujících infrastrukturu" id="ikcr-c504"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.5: eGovernment cloud" id="ikcr-c505"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.6: Standardizace v EG a aslužbách" id="ikcr-c506"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.7: Podpora agend vykonávaných v přenesené působnosti formou sdílení údajů a AISů" id="ikcr-c507"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.8: Podpora agendových systémů pro výkon samostatné působnosti" id="ikcr-c508"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.9: Rozvoj Propojeného datového fondu (PPDF)" id="ikcr-c509"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.1: Podpora práce úředníků" id="ikcr-c601"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.2: Vnitřní elektronizace" id="ikcr-c602"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.3: Nové metody řízení úřadu" id="ikcr-c603"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.4: Nové provozní a podpůrné systémy" id="ikcr-c604"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.5: Vnitřní infrastruktura" id="ikcr-c605"/>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z01: Na prvním místě je klient" id="ikcr-Z01">
+        <documentation>Rozhodování v IT je na prvním místě zaměřeno na dodávku efektivních služeb, představujících zřetelnou hodnotu pro externí i interní klienty, příjemce a uživatele těchto ICT služeb na podporu výkonu služeb veřejné správy.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z02: Standardy plánování a řízení ICT" id="ikcr-Z02">
+        <documentation>Rozvoj služeb je řízen pomocí zavedeného systému Enterprise architektury a dalších návazných standardů. Standardizované postupy vyhovují specifikaci metodických standardů a doporučení vydávaných Ministerstvem vnitra, zejména Národního architektonického rámce s možností využití dalších návazných mezinárodních standardů (TOGAF, ArchiMate, COBIT, ITIL, IT4IT, UML…) pro řízení EA a ICT procesů a služeb.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z03: Strategické řízení pomocí IK OVS" id="ikcr-Z03">
+        <documentation>Rozvoj IS OVS je řízen dlouhodobým plánem – Informační koncepcí daného OVS. Ta zahrnuje jak strategické změny, tak potřeby procesní optimalizace, tak potřeby vyplývající ze stavu ICT. IK OVS stanovuje cíle orientované na zlepšování služeb externím klientům (veřejnost) a interním klientům (zlepšování subjektu). Třetí doporučená skupina tvoří cíle orientované na zlepšování IT (řízení služeb).</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z04: Řízení architektury" id="ikcr-Z04">
+        <documentation>Každý subjekt je povinen udržovat svůj model EA v aktuálním stavu, úrovni detailu dle své velikosti a v konzistentním stavu s povinným obsahem stanoveným Ministerstvem vnitra, který reprezentuje společné sdílené služby a prvky architektury a zároveň v konzistentním stavu s obsahem své Informační koncepce.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z05: Řízení požadavků a změn" id="ikcr-Z05">
+        <documentation>Vyhodnocování zpětné vazby, incidentů a požadavků na služby. Funkční proces řízení životního cyklu požadavků (na nové funkce, změny, opatření eliminující rizika) je z hlediska řízení informačních služeb a řízení změn architektury klíčový. Požadavky musí být průběžně evidovány, vyhodnocovány a zapracovány do aktualizací informační koncepce subjektu, do programových dokumentů, investičních záměrů, projektů nebo plánů drobných změn.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z06: Řízení výkonnosti a kvality" id="ikcr-Z06">
+        <documentation>Vyhodnocování výkonnosti a kvality, minimálně principy měřitelnosti a zpětné vazby, budou zavedeny do všech procesů/postupů, stejně jako role, pozice manažera kvality (nezávislost výkonnosti a kvality IT na řízení rozvoje a provozu IT).</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z07: Řízení zodpovědnosti za služby a systémy" id="ikcr-Z07">
+        <documentation>Každá agenda/proces a jeho služba musí mít svého vlastníka (osobu), který určuje strukturu a způsob výkonu procesu/agendy a je odpovědný za zlepšování, napříč všemi podpůrnými IS.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z08: Řízení katalogu služeb" id="ikcr-Z08">
+        <documentation>IT podpora OVS je řízena pomocí katalogu ICT služeb (převážně aplikačních, ale i technologických a infrastrukturních), kterými jsou podporovány procesy výkonu interních i externích služeb veřejné správy úřadu (tradičních i digitálních). Každý subjekt aktualizuje, publikuje a propaguje na internetu svůj katalog elektronických/digitálních služeb orientovaných na veřejnost a v intranetu obdobný katalog interních digitálních služeb.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z09: Udržení interních kompetencí" id="ikcr-Z09">
+        <documentation>Pro všechny klíčové role řízení služeb eGovernmentu a řízení informatiky má OVS vytvořeny interní pozice. To je nezbytné pro udržení nezávislosti na dodavatelích, kontinuity a celostního pohledu, a zejména zodpovědnosti.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z10: Procesní řízení" id="ikcr-Z10">
+        <documentation>Bude zavedeno procesní řízení, nejen v IT, ale ve všech agendách/procesech. To mj. znamená, že každý proces má vlastníka/garanta a definované výstupy (služby, produkty). Dále pak definované nástroje (ISVS u agend) a role, které je využívají a vykonávají jednotlivé činnosti procesu/agendy. Role není organizační pozice. Hierarchie organizační struktury nadřízený/podřízený není procesní přístup a má řešit jen mimořádné stavy, které nejsou součástí standardních postupů.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z11: Řízení přínosů a hodnoty" id="ikcr-Z11">
+        <documentation>Všechno rozhodování se řídí pravidly „řádného hospodáře“ a „Value for Money“.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z12: Řízení kapacit zdrojů" id="ikcr-Z12">
+        <documentation>OVS průběžně připravuje zajištění dostatečného množství a kvality interních kapacit vlastníků procesů/agend, garantů/správců systémů, projektových manažerů a architektů, odpovídající jejich předpokládanému uvolnění do programů a projektů realizace transformačních změn.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z13: Nezávislost návrhu, řízení a kontroly kvality" id="ikcr-Z13">
+        <documentation>Projekt musí být řízen dle standardní projektové metodiky interním PM s dostatečnou alokovanou kapacitou a kvalifikací po celou dobu návrhu, implementace a předávání ISVS do provozu, nebo externím PM (z kompetenčního centra). Pouze v případě nedostupnosti interních zdrojů a zdrojů kompetenčního centra je možné zadat PM roli externímu subjektu soutěží. Vybraný uchazeč nesmí mít vztah s dodavatelem ani provozovatelem.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z14: Vztah informatiky a legislativy" id="ikcr-Z14">
+        <documentation>Návrhy možností informační podpory legislativních úprav je nutno vypracovávat společně s návrhy přijímání právních předpisů či jejich změn tak, aby se vzájemně ovlivňovaly směrem ke vzniku moderních a proveditelných ustanovení.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z15: Řízení financování ICT" id="ikcr-Z15">
+        <documentation>Dlouhodobé profesionální řízení finančních zdrojů a využívání fondů EU je integrálním principem pro všechny OVS. Je třeba pracovat s metodikou finančních kalkulací na bázi indexu rentability/CBA (analýza přínosů a celkových nákladů) a TCO (celkových nákladů na vlastnictví ICT), včetně budování kompetence ekonomicky kalkulovat optimální efektivitu a výkonnost agendy (procesu) s různou úrovní poměru personálních nákladů na její výkon a nákladů na její IT podporu. Je třeba zlepšit nejen oblast řízení investic, ale neméně dlouhodobé finanční plánování obnov infrastruktury a provozní podpory systémů.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z16: Využívání otevřeného software a standardů" id="ikcr-Z16">
+        <documentation>Stát k zamezení vysokým dlouhodobým nákladům a rizikům používá otevřený software a otevřené standardy. Proto správce ISVS využije stávajících otevřených projektů nebo nechá nový zdrojový kód otevřený a znovu využitelný, publikuje ho pod příslušnými licencemi anebo pro konkrétní část kódu poskytne přesvědčivé vysvětlení, pro to nelze provést. Pokud využití otevřeného kódu není pro realizaci ISVS možné či vhodné, pak pro taková řešení postupuje podle zásady Z17 o vyváženém partnerství s dodavateli.</documentation>
+      </element>
+      <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z17: Podpora vyváženého partnerství s dodavateli" id="ikcr-Z17">
+        <documentation>Správce ISVS musí zajistit, aby vždy disponoval programovými kódy ISVS, detailní dokumentací k ISVS, licenčními právy k ISVS (právy k užívání autorského díla) a vlastní způsobilostí rozhodovat o ISVS tak, aby bylo možné upravovat a spravovat systém i prostřednictvím třetích osob, nezávislých na původním dodavateli či správci ISVS.</documentation>
+      </element>
+    </folder>
+  </folder>
+  <folder name="Implementation &amp; Migration" id="id-70847c9e9a6a40f9b28e63cb9c53faeb" type="implementation_migration"/>
+  <folder name="Other" id="id-e397985a11bf4b4999bb4525dff15548" type="other"/>
+  <folder name="Relations" id="id-766eb4a384f443938a43b495ad65c7e6" type="relations">
+    <folder name="Objekty IKČR" id="id-b64da564a71349bf96af5a8e09ea47be">
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z17" source="ikcr" target="ikcr-Z17"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z16" source="ikcr" target="ikcr-Z16"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z15" source="ikcr" target="ikcr-Z15"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z14" source="ikcr" target="ikcr-Z14"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z13" source="ikcr" target="ikcr-Z13"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z12" source="ikcr" target="ikcr-Z12"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z11" source="ikcr" target="ikcr-Z11"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z10" source="ikcr" target="ikcr-Z10"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P17" source="ikcr" target="ikcr-P17"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P16" source="ikcr" target="ikcr-P16"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P15" source="ikcr" target="ikcr-P15"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P14" source="ikcr" target="ikcr-P14"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P13" source="ikcr" target="ikcr-P13"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P12" source="ikcr" target="ikcr-P12"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P11" source="ikcr" target="ikcr-P11"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P10" source="ikcr" target="ikcr-P10"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z09" source="ikcr" target="ikcr-Z09"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z08" source="ikcr" target="ikcr-Z08"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z07" source="ikcr" target="ikcr-Z07"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z06" source="ikcr" target="ikcr-Z06"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z05" source="ikcr" target="ikcr-Z05"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z04" source="ikcr" target="ikcr-Z04"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z03" source="ikcr" target="ikcr-Z03"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z02" source="ikcr" target="ikcr-Z02"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z01" source="ikcr" target="ikcr-Z01"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P09" source="ikcr" target="ikcr-P09"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P08" source="ikcr" target="ikcr-P08"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P07" source="ikcr" target="ikcr-P07"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P06" source="ikcr" target="ikcr-P06"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P05" source="ikcr" target="ikcr-P05"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P04" source="ikcr" target="ikcr-P04"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P03" source="ikcr" target="ikcr-P03"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P02" source="ikcr" target="ikcr-P02"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P01" source="ikcr" target="ikcr-P01"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c100" source="ikcr" target="ikcr-c100"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c202" source="ikcr" target="ikcr-c202"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c400" source="ikcr" target="ikcr-c400"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c201" source="ikcr" target="ikcr-c201"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c200" source="ikcr" target="ikcr-c200"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c513" source="ikcr" target="ikcr-c513"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c512" source="ikcr" target="ikcr-c512"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c511" source="ikcr" target="ikcr-c511"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c206" source="ikcr" target="ikcr-c206"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c404" source="ikcr" target="ikcr-c404"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c602" source="ikcr" target="ikcr-c602"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c205" source="ikcr" target="ikcr-c205"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c403" source="ikcr" target="ikcr-c403"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c601" source="ikcr" target="ikcr-c601"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c204" source="ikcr" target="ikcr-c204"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c402" source="ikcr" target="ikcr-c402"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c600" source="ikcr" target="ikcr-c600"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c203" source="ikcr" target="ikcr-c203"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c401" source="ikcr" target="ikcr-c401"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c408" source="ikcr" target="ikcr-c408"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c209" source="ikcr" target="ikcr-c209"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c407" source="ikcr" target="ikcr-c407"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c605" source="ikcr" target="ikcr-c605"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c208" source="ikcr" target="ikcr-c208"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c406" source="ikcr" target="ikcr-c406"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c604" source="ikcr" target="ikcr-c604"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c207" source="ikcr" target="ikcr-c207"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c405" source="ikcr" target="ikcr-c405"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c603" source="ikcr" target="ikcr-c603"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c103" source="ikcr" target="ikcr-c103"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c301" source="ikcr" target="ikcr-c301"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c102" source="ikcr" target="ikcr-c102"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c300" source="ikcr" target="ikcr-c300"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c101" source="ikcr" target="ikcr-c101"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c510" source="ikcr" target="ikcr-c510"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c509" source="ikcr" target="ikcr-c509"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c508" source="ikcr" target="ikcr-c508"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c107" source="ikcr" target="ikcr-c107"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c305" source="ikcr" target="ikcr-c305"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c503" source="ikcr" target="ikcr-c503"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c106" source="ikcr" target="ikcr-c106"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c304" source="ikcr" target="ikcr-c304"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c502" source="ikcr" target="ikcr-c502"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c105" source="ikcr" target="ikcr-c105"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c303" source="ikcr" target="ikcr-c303"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c501" source="ikcr" target="ikcr-c501"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c104" source="ikcr" target="ikcr-c104"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c302" source="ikcr" target="ikcr-c302"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c500" source="ikcr" target="ikcr-c500"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c507" source="ikcr" target="ikcr-c507"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c308" source="ikcr" target="ikcr-c308"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c506" source="ikcr" target="ikcr-c506"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c307" source="ikcr" target="ikcr-c307"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c505" source="ikcr" target="ikcr-c505"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c108" source="ikcr" target="ikcr-c108"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c306" source="ikcr" target="ikcr-c306"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c504" source="ikcr" target="ikcr-c504"/>
+      <element xsi:type="archimate:CompositionRelationship" name="obsahuje navazující dokument" id="ikcr___ikcr-nap" source="ikcr" target="ikcr-nap"/>
+      <element xsi:type="archimate:CompositionRelationship" name="obsahuje navazující dokument" id="ikcr___ikcr-nar" source="ikcr" target="ikcr-nar"/>
+      <element xsi:type="archimate:CompositionRelationship" name="obsahuje navazující dokument" id="ikcr___ikcr-mrict" source="ikcr" target="ikcr-mrict"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z10___ikcr-P12" source="ikcr-Z10" target="ikcr-P12"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P09" source="ikcr-Z04" target="ikcr-P09"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z05___ikcr-P10" source="ikcr-Z05" target="ikcr-P10"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P11" source="ikcr-Z04" target="ikcr-P11"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P10" source="ikcr-Z04" target="ikcr-P10"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z16___ikcr-P04" source="ikcr-Z16" target="ikcr-P04"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P12" source="ikcr-Z04" target="ikcr-P12"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P17" source="ikcr-Z04" target="ikcr-P17"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P16" source="ikcr-Z04" target="ikcr-P16"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P16" source="ikcr-Z13" target="ikcr-P16"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P17" source="ikcr-Z13" target="ikcr-P17"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P09" source="ikcr-Z13" target="ikcr-P09"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P10" source="ikcr-Z13" target="ikcr-P10"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z01___ikcr-P09" source="ikcr-Z01" target="ikcr-P09"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P04" source="ikcr-Z13" target="ikcr-P04"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z05___ikcr-P04" source="ikcr-Z05" target="ikcr-P04"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P01" source="ikcr-Z13" target="ikcr-P01"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P12" source="ikcr-Z13" target="ikcr-P12"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P02" source="ikcr-Z13" target="ikcr-P02"/>
+    </folder>
+  </folder>
+  <folder name="Views" id="id-3e23e947d3e54e009c2062ded3f14e52" type="diagrams"/>
+</archimate:model>
