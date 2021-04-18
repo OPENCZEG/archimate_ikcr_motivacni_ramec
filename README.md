@@ -1,0 +1,1 @@
+# archimate_ikcr_motivacni_ramec
