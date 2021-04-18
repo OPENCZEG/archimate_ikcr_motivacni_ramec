@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="obsahuje"
+    id="ikcr___ikcr-P02">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_ikcr.xml#ikcr"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_ikcr-P02.xml#ikcr-P02"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architektonický princip P06: Interoperabilita jako standard"
+    id="ikcr-P06"
+    documentation="Veřejné služby mají být koncipovány tak, aby hladce fungovaly v rámci celého jednotného trhu a napříč různými organizačními jednotkami, a opíraly se o volný pohyb údajů a digitálních služeb v Evropské unii. Současně je nezbytné zajistit interoperabilitu veřejných služeb uvnitř veřejné správy ČR jako předpoklad odstranění místní příslušnosti a snížení omezujícího vlivu věcné příslušnosti služeb VS na jejich klienty."/>

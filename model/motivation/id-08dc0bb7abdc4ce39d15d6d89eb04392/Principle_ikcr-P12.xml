@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architektonický princip P12: Vnitřně pouze digitální"
+    id="ikcr-P12"
+    documentation="Jediný, kdo má právo vyžadovat listinné vstupy nebo výstupy je pouze klient veřejné správy. Od přijetí podání až do vypravení a doručení rozhodnutí nebo jiného výstupu, stejně jako komunikace mezi úřady navzájem a všechny interní provozní procesy veřejné správy musí být plně elektronické, bezpapírové – pokud jej jejich zavedení v této podobě hospodárné (3E) a potřebné pro sdílení údajů. Jenom tak mohou být naplněny ostatní výše uvedené principy."/>

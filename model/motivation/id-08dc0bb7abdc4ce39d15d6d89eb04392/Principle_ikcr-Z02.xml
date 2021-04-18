@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zásada řízení ICT Z02: Standardy plánování a řízení ICT"
+    id="ikcr-Z02"
+    documentation="Rozvoj služeb je řízen pomocí zavedeného systému Enterprise architektury a dalších návazných standardů. Standardizované postupy vyhovují specifikaci metodických standardů a doporučení vydávaných Ministerstvem vnitra, zejména Národního architektonického rámce s možností využití dalších návazných mezinárodních standardů (TOGAF, ArchiMate, COBIT, ITIL, IT4IT, UML…) pro řízení EA a ICT procesů a služeb."/>

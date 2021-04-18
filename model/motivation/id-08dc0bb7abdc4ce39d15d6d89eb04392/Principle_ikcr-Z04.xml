@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zásada řízení ICT Z04: Řízení architektury"
+    id="ikcr-Z04"
+    documentation="Každý subjekt je povinen udržovat svůj model EA v aktuálním stavu, úrovni detailu dle své velikosti a v konzistentním stavu s povinným obsahem stanoveným Ministerstvem vnitra, který reprezentuje společné sdílené služby a prvky architektury a zároveň v konzistentním stavu s obsahem své Informační koncepce."/>

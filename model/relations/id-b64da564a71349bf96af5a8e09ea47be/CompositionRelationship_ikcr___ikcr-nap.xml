@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="obsahuje navazující dokument"
+    id="ikcr___ikcr-nap">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_ikcr.xml#ikcr"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_ikcr-nap.xml#ikcr-nap"/>
+</archimate:CompositionRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="souvisí"
+    id="ikcr-Z01___ikcr-P09">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_ikcr-Z01.xml#ikcr-Z01"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_ikcr-P09.xml#ikcr-P09"/>
+</archimate:AssociationRelationship>

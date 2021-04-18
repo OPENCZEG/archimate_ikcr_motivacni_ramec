@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architektonický princip P10: Připravenost na změny"
+    id="ikcr-P10"
+    documentation="Procesy i IT řešení podpory poskytování služeb veřejné správy musí být navrhovány tak, aby umožňovaly efektivně implementovat rozhodnutí reagující pružně na změnu zákonných parametrů služeb, změnu technologie, změnu dodavatele a další přicházející změny a potřeby."/>

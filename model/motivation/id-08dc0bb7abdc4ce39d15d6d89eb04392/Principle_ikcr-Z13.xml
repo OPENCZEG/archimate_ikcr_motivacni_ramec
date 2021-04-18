@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zásada řízení ICT Z13: Nezávislost návrhu, řízení a kontroly kvality"
+    id="ikcr-Z13"
+    documentation="Projekt musí být řízen dle standardní projektové metodiky interním PM s dostatečnou alokovanou kapacitou a kvalifikací po celou dobu návrhu, implementace a předávání ISVS do provozu, nebo externím PM (z kompetenčního centra). Pouze v případě nedostupnosti interních zdrojů a zdrojů kompetenčního centra je možné zadat PM roli externímu subjektu soutěží. Vybraný uchazeč nesmí mít vztah s dodavatelem ani provozovatelem."/>

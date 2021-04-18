@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architektonický princip P14: Technologická neutralita"
+    id="ikcr-P14"
+    documentation="Digitální služby veřejné správy musí být technologicky nezávislé a neutrální. Musí být garantováno, že přístup k veřejným službám není závislý na konkrétní (předem určené) platformě či technologii."/>

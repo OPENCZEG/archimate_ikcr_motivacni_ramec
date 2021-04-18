@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zásada řízení ICT Z05: Řízení požadavků a změn"
+    id="ikcr-Z05"
+    documentation="Vyhodnocování zpětné vazby, incidentů a požadavků na služby. Funkční proces řízení životního cyklu požadavků (na nové funkce, změny, opatření eliminující rizika) je z hlediska řízení informačních služeb a řízení změn architektury klíčový. Požadavky musí být průběžně evidovány, vyhodnocovány a zapracovány do aktualizací informační koncepce subjektu, do programových dokumentů, investičních záměrů, projektů nebo plánů drobných změn."/>

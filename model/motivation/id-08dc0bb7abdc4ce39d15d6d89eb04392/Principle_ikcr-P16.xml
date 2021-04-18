@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architektonický princip P16: Konsolidace a propojování informačních systémů veřejné správy"
+    id="ikcr-P16"
+    documentation="Je nutno budovat ISVS efektivně a snažit se i pro nové úkoly využívat v maximální míře již systémy stávající. Informační systémy veřejné správy je nutné rozložit do procesně (funkčně) ucelených menších komponent, a tyto komponenty maximálně sdílet pro obdobné požadavky více agend jednoho OVS nebo i mezi nimi."/>

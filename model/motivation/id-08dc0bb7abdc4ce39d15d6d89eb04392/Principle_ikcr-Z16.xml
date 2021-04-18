@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zásada řízení ICT Z16: Využívání otevřeného software a standardů"
+    id="ikcr-Z16"
+    documentation="Stát k zamezení vysokým dlouhodobým nákladům a rizikům používá otevřený software a otevřené standardy. Proto správce ISVS využije stávajících otevřených projektů nebo nechá nový zdrojový kód otevřený a znovu využitelný, publikuje ho pod příslušnými licencemi anebo pro konkrétní část kódu poskytne přesvědčivé vysvětlení, pro to nelze provést. Pokud využití otevřeného kódu není pro realizaci ISVS možné či vhodné, pak pro taková řešení postupuje podle zásady Z17 o vyváženém partnerství s dodavateli."/>

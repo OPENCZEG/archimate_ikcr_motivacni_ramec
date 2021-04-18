@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="obsahuje cíl"
+    id="ikcr___ikcr-c605">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_ikcr.xml#ikcr"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_ikcr-c605.xml#ikcr-c605"/>
+</archimate:AssociationRelationship>
