@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model xmlns="http://www.opengroup.org/xsd/archimate/3.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengroup.org/xsd/archimate/3.0/ http://www.opengroup.org/xsd/archimate/3.1/archimate3_Diagram.xsd" identifier="id-0a9765a620524d37bf1a41d1db986b81">
-  <name xml:lang="cs">IKČR motivační rámec 1.0</name>
+  <name xml:lang="cs">IKČR motivační rámec 1.1</name>
   <elements>
     <element identifier="ikcr" xsi:type="Contract">
       <name xml:lang="cs">Informační koncepce ČR</name>
@@ -86,177 +86,6 @@
       <name xml:lang="cs">Architektonický princip P17: Omezení budování monolitických systémů</name>
       <documentation xml:lang="cs">Soutěžení menších, vzájemně provázaných celků bude znamenat více možností dodávat státu i pro menší spolehlivé dodavatele. Cílem je soutěžit nejlepší řešení v dané oblasti, ne největší řešení na trhu.</documentation>
     </element>
-    <element identifier="ikcr-c100" xsi:type="Goal">
-      <name xml:lang="cs">Cíl IKČR č. 1: UŽIVATELSKY PŘÍVĚTIVÉ A EFEKTIVNÍ „ON-LINE“ SLUŽBY PRO OBČANY A FIRMY</name>
-    </element>
-    <element identifier="ikcr-c200" xsi:type="Goal">
-      <name xml:lang="cs">Cíl IKČR č. 2: DIGITÁLNĚ PŘÍVĚTIVÁ LEGISLATIVA</name>
-    </element>
-    <element identifier="ikcr-c300" xsi:type="Goal">
-      <name xml:lang="cs">Cíl IKČR č. 3: ROZVOJ PROSTŘEDÍ PODPORUJÍCÍHO DIGITÁLNÍ TECHNOLOGIE V OBLASTI eGOVERNMENTU</name>
-    </element>
-    <element identifier="ikcr-c400" xsi:type="Goal">
-      <name xml:lang="cs">Cíl IKČR č. 4: ZVÝŠENÍ KAPACIT A KOMPETENCÍ ZAMĚSTNANCŮ VE VEŘEJNÉ SPRÁVĚ</name>
-    </element>
-    <element identifier="ikcr-c500" xsi:type="Goal">
-      <name xml:lang="cs">Cíl IKČR č. 5: EFEKTIVNÍ A CENTRÁLNĚ KOORDINOVANÉ ICT VEŘEJNÉ SPRÁVY</name>
-    </element>
-    <element identifier="ikcr-c600" xsi:type="Goal">
-      <name xml:lang="cs">Cíl IKČR č. 6: EFEKTIVNÍ A PRUŽNÝ DIGITÁLNÍ ÚŘAD</name>
-    </element>
-    <element identifier="ikcr-c101" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 1.1: Katalog služeb veřejné správy</name>
-    </element>
-    <element identifier="ikcr-c102" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 1.2: Informování o službách veřejnosti</name>
-    </element>
-    <element identifier="ikcr-c103" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 1.3: Rozvoj univerzálních front-office služeb</name>
-    </element>
-    <element identifier="ikcr-c104" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 1.4: Rozvoj klientských služeb resortů</name>
-    </element>
-    <element identifier="ikcr-c105" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 1.5: Rozvoj Národního katalogu otevřených dat</name>
-    </element>
-    <element identifier="ikcr-c106" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 1.6: Stanovení rolí a zodpovědnosti za služby OVM</name>
-    </element>
-    <element identifier="ikcr-c107" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 1.7: Systém zapojení veřejnosti a subjektů do zlepšování EG služeb</name>
-    </element>
-    <element identifier="ikcr-c108" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 1.8: Metodiky a principy uživatelské přívětivosti</name>
-    </element>
-    <element identifier="ikcr-c201" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 2.1: Zajistit povinnost vytváření digitálně přívětivé legislativy</name>
-    </element>
-    <element identifier="ikcr-c202" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 2.2: Podíl na tvorbě evropské legislativy</name>
-    </element>
-    <element identifier="ikcr-c203" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 2.3: Projekty eSbírka a eLegislativa</name>
-    </element>
-    <element identifier="ikcr-c204" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 2.4: Analyzování a úpravy právních předpisů pro služby EG</name>
-    </element>
-    <element identifier="ikcr-c205" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 2.5: Zakotvení práva na digitální služby</name>
-    </element>
-    <element identifier="ikcr-c206" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 2.6: Aktualizace legislativy k eGovernmentu</name>
-    </element>
-    <element identifier="ikcr-c207" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 2.7: Analýza služeb EG směrem ke komerčnímu sektoru a klientům</name>
-    </element>
-    <element identifier="ikcr-c208" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 2.8: Metodika pro veřejné zakázky v ICT a EG</name>
-    </element>
-    <element identifier="ikcr-c209" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 2.9: Nové návrhy právních předpisů na podporu eGovernmentu</name>
-    </element>
-    <element identifier="ikcr-c301" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 3.1: Využití prostředků ESF na rozvoj digitalizace</name>
-    </element>
-    <element identifier="ikcr-c302" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 3.2: Digitalizace dosud nedigitalizovaného obsahu</name>
-    </element>
-    <element identifier="ikcr-c303" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 3.3: Digitalizace a správa úředních dokumentů a úředního obsahu</name>
-    </element>
-    <element identifier="ikcr-c304" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 3.4: Zkvalitnění Registru práv a povinností a jeho obsahu</name>
-    </element>
-    <element identifier="ikcr-c305" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 3.5: Rozvoj komunikační infrastruktury státu</name>
-    </element>
-    <element identifier="ikcr-c306" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 3.6: Rozvoj systémů elektronické identifikace (EID)</name>
-    </element>
-    <element identifier="ikcr-c307" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 3.7: Prostorová data</name>
-    </element>
-    <element identifier="ikcr-c308" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 3.8: Kybernetická bezpečnost</name>
-    </element>
-    <element identifier="ikcr-c401" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 4.1: Úpravy systemizace a katalogizace profesí v IT a DPL</name>
-    </element>
-    <element identifier="ikcr-c402" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 4.2: Opatření pro získání a udržení klíčových specialistů v rámci veřejné správy</name>
-    </element>
-    <element identifier="ikcr-c403" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 4.3: Intenzivní spolupráce s vysokými školami</name>
-    </element>
-    <element identifier="ikcr-c404" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 4.4: Sdílená kompetenční centra a zvyšování kapacit</name>
-    </element>
-    <element identifier="ikcr-c405" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 4.5: Institucionalizace klíčových útvarů a rolí v úřadech</name>
-    </element>
-    <element identifier="ikcr-c406" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 4.6: Kompetence a zdroje pro realizaci změn</name>
-    </element>
-    <element identifier="ikcr-c407" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 4.7: Zavedení procesního řízení a řízení služeb ve veřejné správě</name>
-    </element>
-    <element identifier="ikcr-c408" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 4.8: Rozvoj systému vzdělávání a odborné přípravy zaměstnanců veřejné správy směrem k EG</name>
-    </element>
-    <element identifier="ikcr-c510" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 5.10: Rozvoj otevřených dat a veřejného fondu dat a služeb veřejné správy</name>
-    </element>
-    <element identifier="ikcr-c511" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 5.11: Rozvoj geoinformatiky a prostorových informací</name>
-    </element>
-    <element identifier="ikcr-c512" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 5.12: Hodnocení realizace IKČR a zpětná vazba</name>
-    </element>
-    <element identifier="ikcr-c513" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 5.13: IS nové generace</name>
-    </element>
-    <element identifier="ikcr-c501" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 5.1: Implementace procesu řízení IKČR</name>
-    </element>
-    <element identifier="ikcr-c502" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 5.2: Alokace lidských a institucionálních zdrojů pro realizaci IKČR</name>
-    </element>
-    <element identifier="ikcr-c503" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 5.3: Zavedení principů pro řízení a rozvoj architektury v úřadech</name>
-    </element>
-    <element identifier="ikcr-c504" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 5.4: Realizace modelu spolupráce OVM a podniků poskytujících infrastrukturu</name>
-    </element>
-    <element identifier="ikcr-c505" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 5.5: eGovernment cloud</name>
-    </element>
-    <element identifier="ikcr-c506" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 5.6: Standardizace v EG a aslužbách</name>
-    </element>
-    <element identifier="ikcr-c507" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 5.7: Podpora agend vykonávaných v přenesené působnosti formou sdílení údajů a AISů</name>
-    </element>
-    <element identifier="ikcr-c508" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 5.8: Podpora agendových systémů pro výkon samostatné působnosti</name>
-    </element>
-    <element identifier="ikcr-c509" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 5.9: Rozvoj Propojeného datového fondu (PPDF)</name>
-    </element>
-    <element identifier="ikcr-c601" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 6.1: Podpora práce úředníků</name>
-    </element>
-    <element identifier="ikcr-c602" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 6.2: Vnitřní elektronizace</name>
-    </element>
-    <element identifier="ikcr-c603" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 6.3: Nové metody řízení úřadu</name>
-    </element>
-    <element identifier="ikcr-c604" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 6.4: Nové provozní a podpůrné systémy</name>
-    </element>
-    <element identifier="ikcr-c605" xsi:type="Goal">
-      <name xml:lang="cs">Dílčí cíl 6.5: Vnitřní infrastruktura</name>
-    </element>
     <element identifier="ikcr-Z01" xsi:type="Principle">
       <name xml:lang="cs">Zásada řízení ICT Z01: Na prvním místě je klient</name>
       <documentation xml:lang="cs">Rozhodování v IT je na prvním místě zaměřeno na dodávku efektivních služeb, představujících zřetelnou hodnotu pro externí i interní klienty, příjemce a uživatele těchto ICT služeb na podporu výkonu služeb veřejné správy.</documentation>
@@ -325,280 +154,454 @@
       <name xml:lang="cs">Zásada řízení ICT Z17: Podpora vyváženého partnerství s dodavateli</name>
       <documentation xml:lang="cs">Správce ISVS musí zajistit, aby vždy disponoval programovými kódy ISVS, detailní dokumentací k ISVS, licenčními právy k ISVS (právy k užívání autorského díla) a vlastní způsobilostí rozhodovat o ISVS tak, aby bylo možné upravovat a spravovat systém i prostřednictvím třetích osob, nezávislých na původním dodavateli či správci ISVS.</documentation>
     </element>
+    <element identifier="ikcr-c100" xsi:type="Goal">
+      <name xml:lang="cs">Cíl IKČR č. 1: UŽIVATELSKY PŘÍVĚTIVÉ A EFEKTIVNÍ „ON-LINE“ SLUŽBY PRO OBČANY A FIRMY</name>
+    </element>
+    <element identifier="ikcr-c101" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 1.1: Katalog služeb veřejné správy</name>
+    </element>
+    <element identifier="ikcr-c102" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 1.2: Informování o službách veřejnosti</name>
+    </element>
+    <element identifier="ikcr-c103" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 1.3: Rozvoj univerzálních front-office služeb</name>
+    </element>
+    <element identifier="ikcr-c104" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 1.4: Rozvoj klientských služeb resortů</name>
+    </element>
+    <element identifier="ikcr-c105" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 1.5: Rozvoj Národního katalogu otevřených dat</name>
+    </element>
+    <element identifier="ikcr-c106" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 1.6: Stanovení rolí a zodpovědnosti za služby OVM</name>
+    </element>
+    <element identifier="ikcr-c107" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 1.7: Systém zapojení veřejnosti a subjektů do zlepšování EG služeb</name>
+    </element>
+    <element identifier="ikcr-c108" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 1.8: Metodiky a principy uživatelské přívětivosti</name>
+    </element>
+    <element identifier="ikcr-c200" xsi:type="Goal">
+      <name xml:lang="cs">Cíl IKČR č. 2: DIGITÁLNĚ PŘÍVĚTIVÁ LEGISLATIVA</name>
+    </element>
+    <element identifier="ikcr-c201" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 2.1: Zajistit povinnost vytváření digitálně přívětivé legislativy</name>
+    </element>
+    <element identifier="ikcr-c202" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 2.2: Podíl na tvorbě evropské legislativy</name>
+    </element>
+    <element identifier="ikcr-c203" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 2.3: Projekty eSbírka a eLegislativa</name>
+    </element>
+    <element identifier="ikcr-c204" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 2.4: Analyzování a úpravy právních předpisů pro služby EG</name>
+    </element>
+    <element identifier="ikcr-c205" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 2.5: Zakotvení práva na digitální služby</name>
+    </element>
+    <element identifier="ikcr-c206" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 2.6: Aktualizace legislativy k eGovernmentu</name>
+    </element>
+    <element identifier="ikcr-c207" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 2.7: Analýza služeb EG směrem ke komerčnímu sektoru a klientům</name>
+    </element>
+    <element identifier="ikcr-c208" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 2.8: Metodika pro veřejné zakázky v ICT a EG</name>
+    </element>
+    <element identifier="ikcr-c209" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 2.9: Nové návrhy právních předpisů na podporu eGovernmentu</name>
+    </element>
+    <element identifier="ikcr-c300" xsi:type="Goal">
+      <name xml:lang="cs">Cíl IKČR č. 3: ROZVOJ PROSTŘEDÍ PODPORUJÍCÍHO DIGITÁLNÍ TECHNOLOGIE V OBLASTI eGOVERNMENTU</name>
+    </element>
+    <element identifier="ikcr-c301" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 3.1: Využití prostředků ESF na rozvoj digitalizace</name>
+    </element>
+    <element identifier="ikcr-c302" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 3.2: Digitalizace dosud nedigitalizovaného obsahu</name>
+    </element>
+    <element identifier="ikcr-c303" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 3.3: Digitalizace a správa úředních dokumentů a úředního obsahu</name>
+    </element>
+    <element identifier="ikcr-c304" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 3.4: Zkvalitnění Registru práv a povinností a jeho obsahu</name>
+    </element>
+    <element identifier="ikcr-c305" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 3.5: Rozvoj komunikační infrastruktury státu</name>
+    </element>
+    <element identifier="ikcr-c306" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 3.6: Rozvoj systémů elektronické identifikace (EID)</name>
+    </element>
+    <element identifier="ikcr-c307" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 3.7: Prostorová data</name>
+    </element>
+    <element identifier="ikcr-c308" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 3.8: Kybernetická bezpečnost</name>
+    </element>
+    <element identifier="ikcr-c400" xsi:type="Goal">
+      <name xml:lang="cs">Cíl IKČR č. 4: ZVÝŠENÍ KAPACIT A KOMPETENCÍ ZAMĚSTNANCŮ VE VEŘEJNÉ SPRÁVĚ</name>
+    </element>
+    <element identifier="ikcr-c401" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 4.1: Úpravy systemizace a katalogizace profesí v IT a DPL</name>
+    </element>
+    <element identifier="ikcr-c402" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 4.2: Opatření pro získání a udržení klíčových specialistů v rámci veřejné správy</name>
+    </element>
+    <element identifier="ikcr-c403" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 4.3: Intenzivní spolupráce s vysokými školami</name>
+    </element>
+    <element identifier="ikcr-c404" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 4.4: Sdílená kompetenční centra a zvyšování kapacit</name>
+    </element>
+    <element identifier="ikcr-c405" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 4.5: Institucionalizace klíčových útvarů a rolí v úřadech</name>
+    </element>
+    <element identifier="ikcr-c406" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 4.6: Kompetence a zdroje pro realizaci změn</name>
+    </element>
+    <element identifier="ikcr-c407" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 4.7: Zavedení procesního řízení a řízení služeb ve veřejné správě</name>
+    </element>
+    <element identifier="ikcr-c408" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 4.8: Rozvoj systému vzdělávání a odborné přípravy zaměstnanců veřejné správy směrem k EG</name>
+    </element>
+    <element identifier="ikcr-c500" xsi:type="Goal">
+      <name xml:lang="cs">Cíl IKČR č. 5: EFEKTIVNÍ A CENTRÁLNĚ KOORDINOVANÉ ICT VEŘEJNÉ SPRÁVY</name>
+    </element>
+    <element identifier="ikcr-c501" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 5.1: Implementace procesu řízení IKČR</name>
+    </element>
+    <element identifier="ikcr-c502" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 5.2: Alokace lidských a institucionálních zdrojů pro realizaci IKČR</name>
+    </element>
+    <element identifier="ikcr-c503" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 5.3: Zavedení principů pro řízení a rozvoj architektury v úřadech</name>
+    </element>
+    <element identifier="ikcr-c504" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 5.4: Realizace modelu spolupráce OVM a podniků poskytujících infrastrukturu</name>
+    </element>
+    <element identifier="ikcr-c505" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 5.5: eGovernment cloud</name>
+    </element>
+    <element identifier="ikcr-c506" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 5.6: Standardizace v EG a aslužbách</name>
+    </element>
+    <element identifier="ikcr-c507" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 5.7: Podpora agend vykonávaných v přenesené působnosti formou sdílení údajů a AISů</name>
+    </element>
+    <element identifier="ikcr-c508" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 5.8: Podpora agendových systémů pro výkon samostatné působnosti</name>
+    </element>
+    <element identifier="ikcr-c509" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 5.9: Rozvoj Propojeného datového fondu (PPDF)</name>
+    </element>
+    <element identifier="ikcr-c510" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 5.10: Rozvoj otevřených dat a veřejného fondu dat a služeb veřejné správy</name>
+    </element>
+    <element identifier="ikcr-c511" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 5.11: Rozvoj geoinformatiky a prostorových informací</name>
+    </element>
+    <element identifier="ikcr-c512" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 5.12: Hodnocení realizace IKČR a zpětná vazba</name>
+    </element>
+    <element identifier="ikcr-c513" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 5.13: IS nové generace</name>
+    </element>
+    <element identifier="ikcr-c600" xsi:type="Goal">
+      <name xml:lang="cs">Cíl IKČR č. 6: EFEKTIVNÍ A PRUŽNÝ DIGITÁLNÍ ÚŘAD</name>
+    </element>
+    <element identifier="ikcr-c601" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 6.1: Podpora práce úředníků</name>
+    </element>
+    <element identifier="ikcr-c602" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 6.2: Vnitřní elektronizace</name>
+    </element>
+    <element identifier="ikcr-c603" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 6.3: Nové metody řízení úřadu</name>
+    </element>
+    <element identifier="ikcr-c604" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 6.4: Nové provozní a podpůrné systémy</name>
+    </element>
+    <element identifier="ikcr-c605" xsi:type="Goal">
+      <name xml:lang="cs">Dílčí cíl 6.5: Vnitřní infrastruktura</name>
+    </element>
   </elements>
   <relationships>
-    <relationship identifier="ikcr___ikcr-Z17" source="ikcr" target="ikcr-Z17" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z16" source="ikcr" target="ikcr-Z16" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z15" source="ikcr" target="ikcr-Z15" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z14" source="ikcr" target="ikcr-Z14" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z13" source="ikcr" target="ikcr-Z13" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z12" source="ikcr" target="ikcr-Z12" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z11" source="ikcr" target="ikcr-Z11" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z10" source="ikcr" target="ikcr-Z10" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P17" source="ikcr" target="ikcr-P17" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P16" source="ikcr" target="ikcr-P16" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P15" source="ikcr" target="ikcr-P15" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P14" source="ikcr" target="ikcr-P14" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P13" source="ikcr" target="ikcr-P13" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P12" source="ikcr" target="ikcr-P12" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P11" source="ikcr" target="ikcr-P11" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P10" source="ikcr" target="ikcr-P10" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z09" source="ikcr" target="ikcr-Z09" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z08" source="ikcr" target="ikcr-Z08" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z07" source="ikcr" target="ikcr-Z07" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z06" source="ikcr" target="ikcr-Z06" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z05" source="ikcr" target="ikcr-Z05" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z04" source="ikcr" target="ikcr-Z04" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z03" source="ikcr" target="ikcr-Z03" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z02" source="ikcr" target="ikcr-Z02" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-Z01" source="ikcr" target="ikcr-Z01" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P09" source="ikcr" target="ikcr-P09" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P08" source="ikcr" target="ikcr-P08" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P07" source="ikcr" target="ikcr-P07" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P06" source="ikcr" target="ikcr-P06" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P05" source="ikcr" target="ikcr-P05" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P04" source="ikcr" target="ikcr-P04" xsi:type="Association">
-      <name xml:lang="cs">obsahuje</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-P03" source="ikcr" target="ikcr-P03" xsi:type="Association">
+    <relationship identifier="ikcr___ikcr-P01" source="ikcr" target="ikcr-P01" xsi:type="Association">
       <name xml:lang="cs">obsahuje</name>
     </relationship>
     <relationship identifier="ikcr___ikcr-P02" source="ikcr" target="ikcr-P02" xsi:type="Association">
       <name xml:lang="cs">obsahuje</name>
     </relationship>
-    <relationship identifier="ikcr___ikcr-P01" source="ikcr" target="ikcr-P01" xsi:type="Association">
+    <relationship identifier="ikcr___ikcr-P03" source="ikcr" target="ikcr-P03" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P04" source="ikcr" target="ikcr-P04" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P05" source="ikcr" target="ikcr-P05" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P06" source="ikcr" target="ikcr-P06" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P07" source="ikcr" target="ikcr-P07" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P08" source="ikcr" target="ikcr-P08" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P09" source="ikcr" target="ikcr-P09" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P10" source="ikcr" target="ikcr-P10" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P11" source="ikcr" target="ikcr-P11" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P12" source="ikcr" target="ikcr-P12" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P13" source="ikcr" target="ikcr-P13" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P14" source="ikcr" target="ikcr-P14" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P15" source="ikcr" target="ikcr-P15" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P16" source="ikcr" target="ikcr-P16" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-P17" source="ikcr" target="ikcr-P17" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z01" source="ikcr" target="ikcr-Z01" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z02" source="ikcr" target="ikcr-Z02" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z03" source="ikcr" target="ikcr-Z03" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z04" source="ikcr" target="ikcr-Z04" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z05" source="ikcr" target="ikcr-Z05" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z06" source="ikcr" target="ikcr-Z06" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z07" source="ikcr" target="ikcr-Z07" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z08" source="ikcr" target="ikcr-Z08" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z09" source="ikcr" target="ikcr-Z09" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z10" source="ikcr" target="ikcr-Z10" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z11" source="ikcr" target="ikcr-Z11" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z12" source="ikcr" target="ikcr-Z12" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z13" source="ikcr" target="ikcr-Z13" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z14" source="ikcr" target="ikcr-Z14" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z15" source="ikcr" target="ikcr-Z15" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z16" source="ikcr" target="ikcr-Z16" xsi:type="Association">
+      <name xml:lang="cs">obsahuje</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-Z17" source="ikcr" target="ikcr-Z17" xsi:type="Association">
       <name xml:lang="cs">obsahuje</name>
     </relationship>
     <relationship identifier="ikcr___ikcr-c100" source="ikcr" target="ikcr-c100" xsi:type="Association">
       <name xml:lang="cs">obsahuje cíl</name>
     </relationship>
-    <relationship identifier="ikcr___ikcr-c202" source="ikcr" target="ikcr-c202" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c400" source="ikcr" target="ikcr-c400" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c201" source="ikcr" target="ikcr-c201" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c200" source="ikcr" target="ikcr-c200" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c513" source="ikcr" target="ikcr-c513" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c512" source="ikcr" target="ikcr-c512" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c511" source="ikcr" target="ikcr-c511" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c206" source="ikcr" target="ikcr-c206" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c404" source="ikcr" target="ikcr-c404" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c602" source="ikcr" target="ikcr-c602" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c205" source="ikcr" target="ikcr-c205" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c403" source="ikcr" target="ikcr-c403" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c601" source="ikcr" target="ikcr-c601" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c204" source="ikcr" target="ikcr-c204" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c402" source="ikcr" target="ikcr-c402" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c600" source="ikcr" target="ikcr-c600" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c203" source="ikcr" target="ikcr-c203" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c401" source="ikcr" target="ikcr-c401" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c408" source="ikcr" target="ikcr-c408" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c209" source="ikcr" target="ikcr-c209" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c407" source="ikcr" target="ikcr-c407" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c605" source="ikcr" target="ikcr-c605" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c208" source="ikcr" target="ikcr-c208" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c406" source="ikcr" target="ikcr-c406" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c604" source="ikcr" target="ikcr-c604" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c207" source="ikcr" target="ikcr-c207" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c405" source="ikcr" target="ikcr-c405" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c603" source="ikcr" target="ikcr-c603" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c103" source="ikcr" target="ikcr-c103" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c301" source="ikcr" target="ikcr-c301" xsi:type="Association">
+    <relationship identifier="ikcr___ikcr-c101" source="ikcr" target="ikcr-c101" xsi:type="Association">
       <name xml:lang="cs">obsahuje cíl</name>
     </relationship>
     <relationship identifier="ikcr___ikcr-c102" source="ikcr" target="ikcr-c102" xsi:type="Association">
       <name xml:lang="cs">obsahuje cíl</name>
     </relationship>
-    <relationship identifier="ikcr___ikcr-c300" source="ikcr" target="ikcr-c300" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c101" source="ikcr" target="ikcr-c101" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c510" source="ikcr" target="ikcr-c510" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c509" source="ikcr" target="ikcr-c509" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c508" source="ikcr" target="ikcr-c508" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c107" source="ikcr" target="ikcr-c107" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c305" source="ikcr" target="ikcr-c305" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c503" source="ikcr" target="ikcr-c503" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c106" source="ikcr" target="ikcr-c106" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c304" source="ikcr" target="ikcr-c304" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c502" source="ikcr" target="ikcr-c502" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c105" source="ikcr" target="ikcr-c105" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c303" source="ikcr" target="ikcr-c303" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c501" source="ikcr" target="ikcr-c501" xsi:type="Association">
+    <relationship identifier="ikcr___ikcr-c103" source="ikcr" target="ikcr-c103" xsi:type="Association">
       <name xml:lang="cs">obsahuje cíl</name>
     </relationship>
     <relationship identifier="ikcr___ikcr-c104" source="ikcr" target="ikcr-c104" xsi:type="Association">
       <name xml:lang="cs">obsahuje cíl</name>
     </relationship>
-    <relationship identifier="ikcr___ikcr-c302" source="ikcr" target="ikcr-c302" xsi:type="Association">
+    <relationship identifier="ikcr___ikcr-c105" source="ikcr" target="ikcr-c105" xsi:type="Association">
       <name xml:lang="cs">obsahuje cíl</name>
     </relationship>
-    <relationship identifier="ikcr___ikcr-c500" source="ikcr" target="ikcr-c500" xsi:type="Association">
+    <relationship identifier="ikcr___ikcr-c106" source="ikcr" target="ikcr-c106" xsi:type="Association">
       <name xml:lang="cs">obsahuje cíl</name>
     </relationship>
-    <relationship identifier="ikcr___ikcr-c507" source="ikcr" target="ikcr-c507" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c308" source="ikcr" target="ikcr-c308" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c506" source="ikcr" target="ikcr-c506" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c307" source="ikcr" target="ikcr-c307" xsi:type="Association">
-      <name xml:lang="cs">obsahuje cíl</name>
-    </relationship>
-    <relationship identifier="ikcr___ikcr-c505" source="ikcr" target="ikcr-c505" xsi:type="Association">
+    <relationship identifier="ikcr___ikcr-c107" source="ikcr" target="ikcr-c107" xsi:type="Association">
       <name xml:lang="cs">obsahuje cíl</name>
     </relationship>
     <relationship identifier="ikcr___ikcr-c108" source="ikcr" target="ikcr-c108" xsi:type="Association">
       <name xml:lang="cs">obsahuje cíl</name>
     </relationship>
+    <relationship identifier="ikcr___ikcr-c200" source="ikcr" target="ikcr-c200" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c201" source="ikcr" target="ikcr-c201" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c202" source="ikcr" target="ikcr-c202" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c203" source="ikcr" target="ikcr-c203" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c204" source="ikcr" target="ikcr-c204" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c205" source="ikcr" target="ikcr-c205" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c206" source="ikcr" target="ikcr-c206" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c207" source="ikcr" target="ikcr-c207" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c208" source="ikcr" target="ikcr-c208" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c209" source="ikcr" target="ikcr-c209" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c300" source="ikcr" target="ikcr-c300" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c301" source="ikcr" target="ikcr-c301" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c302" source="ikcr" target="ikcr-c302" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c303" source="ikcr" target="ikcr-c303" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c304" source="ikcr" target="ikcr-c304" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c305" source="ikcr" target="ikcr-c305" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
     <relationship identifier="ikcr___ikcr-c306" source="ikcr" target="ikcr-c306" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c307" source="ikcr" target="ikcr-c307" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c308" source="ikcr" target="ikcr-c308" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c400" source="ikcr" target="ikcr-c400" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c401" source="ikcr" target="ikcr-c401" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c402" source="ikcr" target="ikcr-c402" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c403" source="ikcr" target="ikcr-c403" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c404" source="ikcr" target="ikcr-c404" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c405" source="ikcr" target="ikcr-c405" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c406" source="ikcr" target="ikcr-c406" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c407" source="ikcr" target="ikcr-c407" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c408" source="ikcr" target="ikcr-c408" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c500" source="ikcr" target="ikcr-c500" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c501" source="ikcr" target="ikcr-c501" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c502" source="ikcr" target="ikcr-c502" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c503" source="ikcr" target="ikcr-c503" xsi:type="Association">
       <name xml:lang="cs">obsahuje cíl</name>
     </relationship>
     <relationship identifier="ikcr___ikcr-c504" source="ikcr" target="ikcr-c504" xsi:type="Association">
       <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c505" source="ikcr" target="ikcr-c505" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c506" source="ikcr" target="ikcr-c506" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c507" source="ikcr" target="ikcr-c507" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c508" source="ikcr" target="ikcr-c508" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c509" source="ikcr" target="ikcr-c509" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c510" source="ikcr" target="ikcr-c510" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c511" source="ikcr" target="ikcr-c511" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c512" source="ikcr" target="ikcr-c512" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c513" source="ikcr" target="ikcr-c513" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c600" source="ikcr" target="ikcr-c600" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c601" source="ikcr" target="ikcr-c601" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c602" source="ikcr" target="ikcr-c602" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c603" source="ikcr" target="ikcr-c603" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c604" source="ikcr" target="ikcr-c604" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-c605" source="ikcr" target="ikcr-c605" xsi:type="Association">
+      <name xml:lang="cs">obsahuje cíl</name>
+    </relationship>
+    <relationship identifier="ikcr___ikcr-mrict" source="ikcr" target="ikcr-mrict" xsi:type="Composition">
+      <name xml:lang="cs">obsahuje navazující dokument</name>
     </relationship>
     <relationship identifier="ikcr___ikcr-nap" source="ikcr" target="ikcr-nap" xsi:type="Composition">
       <name xml:lang="cs">obsahuje navazující dokument</name>
@@ -606,40 +609,43 @@
     <relationship identifier="ikcr___ikcr-nar" source="ikcr" target="ikcr-nar" xsi:type="Composition">
       <name xml:lang="cs">obsahuje navazující dokument</name>
     </relationship>
-    <relationship identifier="ikcr___ikcr-mrict" source="ikcr" target="ikcr-mrict" xsi:type="Composition">
-      <name xml:lang="cs">obsahuje navazující dokument</name>
-    </relationship>
-    <relationship identifier="ikcr-Z10___ikcr-P12" source="ikcr-Z10" target="ikcr-P12" xsi:type="Association">
+    <relationship identifier="ikcr-Z01___ikcr-P09" source="ikcr-Z01" target="ikcr-P09" xsi:type="Association">
       <name xml:lang="cs">souvisí</name>
     </relationship>
     <relationship identifier="ikcr-Z04___ikcr-P09" source="ikcr-Z04" target="ikcr-P09" xsi:type="Association">
       <name xml:lang="cs">souvisí</name>
     </relationship>
-    <relationship identifier="ikcr-Z05___ikcr-P10" source="ikcr-Z05" target="ikcr-P10" xsi:type="Association">
+    <relationship identifier="ikcr-Z04___ikcr-P10" source="ikcr-Z04" target="ikcr-P10" xsi:type="Association">
       <name xml:lang="cs">souvisí</name>
     </relationship>
     <relationship identifier="ikcr-Z04___ikcr-P11" source="ikcr-Z04" target="ikcr-P11" xsi:type="Association">
       <name xml:lang="cs">souvisí</name>
     </relationship>
-    <relationship identifier="ikcr-Z04___ikcr-P10" source="ikcr-Z04" target="ikcr-P10" xsi:type="Association">
-      <name xml:lang="cs">souvisí</name>
-    </relationship>
-    <relationship identifier="ikcr-Z16___ikcr-P04" source="ikcr-Z16" target="ikcr-P04" xsi:type="Association">
-      <name xml:lang="cs">souvisí</name>
-    </relationship>
     <relationship identifier="ikcr-Z04___ikcr-P12" source="ikcr-Z04" target="ikcr-P12" xsi:type="Association">
-      <name xml:lang="cs">souvisí</name>
-    </relationship>
-    <relationship identifier="ikcr-Z04___ikcr-P17" source="ikcr-Z04" target="ikcr-P17" xsi:type="Association">
       <name xml:lang="cs">souvisí</name>
     </relationship>
     <relationship identifier="ikcr-Z04___ikcr-P16" source="ikcr-Z04" target="ikcr-P16" xsi:type="Association">
       <name xml:lang="cs">souvisí</name>
     </relationship>
-    <relationship identifier="ikcr-Z13___ikcr-P16" source="ikcr-Z13" target="ikcr-P16" xsi:type="Association">
+    <relationship identifier="ikcr-Z04___ikcr-P17" source="ikcr-Z04" target="ikcr-P17" xsi:type="Association">
       <name xml:lang="cs">souvisí</name>
     </relationship>
-    <relationship identifier="ikcr-Z13___ikcr-P17" source="ikcr-Z13" target="ikcr-P17" xsi:type="Association">
+    <relationship identifier="ikcr-Z05___ikcr-P04" source="ikcr-Z05" target="ikcr-P04" xsi:type="Association">
+      <name xml:lang="cs">souvisí</name>
+    </relationship>
+    <relationship identifier="ikcr-Z05___ikcr-P10" source="ikcr-Z05" target="ikcr-P10" xsi:type="Association">
+      <name xml:lang="cs">souvisí</name>
+    </relationship>
+    <relationship identifier="ikcr-Z10___ikcr-P12" source="ikcr-Z10" target="ikcr-P12" xsi:type="Association">
+      <name xml:lang="cs">souvisí</name>
+    </relationship>
+    <relationship identifier="ikcr-Z13___ikcr-P01" source="ikcr-Z13" target="ikcr-P01" xsi:type="Association">
+      <name xml:lang="cs">souvisí</name>
+    </relationship>
+    <relationship identifier="ikcr-Z13___ikcr-P02" source="ikcr-Z13" target="ikcr-P02" xsi:type="Association">
+      <name xml:lang="cs">souvisí</name>
+    </relationship>
+    <relationship identifier="ikcr-Z13___ikcr-P04" source="ikcr-Z13" target="ikcr-P04" xsi:type="Association">
       <name xml:lang="cs">souvisí</name>
     </relationship>
     <relationship identifier="ikcr-Z13___ikcr-P09" source="ikcr-Z13" target="ikcr-P09" xsi:type="Association">
@@ -648,22 +654,16 @@
     <relationship identifier="ikcr-Z13___ikcr-P10" source="ikcr-Z13" target="ikcr-P10" xsi:type="Association">
       <name xml:lang="cs">souvisí</name>
     </relationship>
-    <relationship identifier="ikcr-Z01___ikcr-P09" source="ikcr-Z01" target="ikcr-P09" xsi:type="Association">
-      <name xml:lang="cs">souvisí</name>
-    </relationship>
-    <relationship identifier="ikcr-Z13___ikcr-P04" source="ikcr-Z13" target="ikcr-P04" xsi:type="Association">
-      <name xml:lang="cs">souvisí</name>
-    </relationship>
-    <relationship identifier="ikcr-Z05___ikcr-P04" source="ikcr-Z05" target="ikcr-P04" xsi:type="Association">
-      <name xml:lang="cs">souvisí</name>
-    </relationship>
-    <relationship identifier="ikcr-Z13___ikcr-P01" source="ikcr-Z13" target="ikcr-P01" xsi:type="Association">
-      <name xml:lang="cs">souvisí</name>
-    </relationship>
     <relationship identifier="ikcr-Z13___ikcr-P12" source="ikcr-Z13" target="ikcr-P12" xsi:type="Association">
       <name xml:lang="cs">souvisí</name>
     </relationship>
-    <relationship identifier="ikcr-Z13___ikcr-P02" source="ikcr-Z13" target="ikcr-P02" xsi:type="Association">
+    <relationship identifier="ikcr-Z13___ikcr-P16" source="ikcr-Z13" target="ikcr-P16" xsi:type="Association">
+      <name xml:lang="cs">souvisí</name>
+    </relationship>
+    <relationship identifier="ikcr-Z13___ikcr-P17" source="ikcr-Z13" target="ikcr-P17" xsi:type="Association">
+      <name xml:lang="cs">souvisí</name>
+    </relationship>
+    <relationship identifier="ikcr-Z16___ikcr-P04" source="ikcr-Z16" target="ikcr-P04" xsi:type="Association">
       <name xml:lang="cs">souvisí</name>
     </relationship>
   </relationships>
@@ -699,63 +699,6 @@
         <item identifierRef="ikcr-P15" />
         <item identifierRef="ikcr-P16" />
         <item identifierRef="ikcr-P17" />
-        <item identifierRef="ikcr-c100" />
-        <item identifierRef="ikcr-c200" />
-        <item identifierRef="ikcr-c300" />
-        <item identifierRef="ikcr-c400" />
-        <item identifierRef="ikcr-c500" />
-        <item identifierRef="ikcr-c600" />
-        <item identifierRef="ikcr-c101" />
-        <item identifierRef="ikcr-c102" />
-        <item identifierRef="ikcr-c103" />
-        <item identifierRef="ikcr-c104" />
-        <item identifierRef="ikcr-c105" />
-        <item identifierRef="ikcr-c106" />
-        <item identifierRef="ikcr-c107" />
-        <item identifierRef="ikcr-c108" />
-        <item identifierRef="ikcr-c201" />
-        <item identifierRef="ikcr-c202" />
-        <item identifierRef="ikcr-c203" />
-        <item identifierRef="ikcr-c204" />
-        <item identifierRef="ikcr-c205" />
-        <item identifierRef="ikcr-c206" />
-        <item identifierRef="ikcr-c207" />
-        <item identifierRef="ikcr-c208" />
-        <item identifierRef="ikcr-c209" />
-        <item identifierRef="ikcr-c301" />
-        <item identifierRef="ikcr-c302" />
-        <item identifierRef="ikcr-c303" />
-        <item identifierRef="ikcr-c304" />
-        <item identifierRef="ikcr-c305" />
-        <item identifierRef="ikcr-c306" />
-        <item identifierRef="ikcr-c307" />
-        <item identifierRef="ikcr-c308" />
-        <item identifierRef="ikcr-c401" />
-        <item identifierRef="ikcr-c402" />
-        <item identifierRef="ikcr-c403" />
-        <item identifierRef="ikcr-c404" />
-        <item identifierRef="ikcr-c405" />
-        <item identifierRef="ikcr-c406" />
-        <item identifierRef="ikcr-c407" />
-        <item identifierRef="ikcr-c408" />
-        <item identifierRef="ikcr-c510" />
-        <item identifierRef="ikcr-c511" />
-        <item identifierRef="ikcr-c512" />
-        <item identifierRef="ikcr-c513" />
-        <item identifierRef="ikcr-c501" />
-        <item identifierRef="ikcr-c502" />
-        <item identifierRef="ikcr-c503" />
-        <item identifierRef="ikcr-c504" />
-        <item identifierRef="ikcr-c505" />
-        <item identifierRef="ikcr-c506" />
-        <item identifierRef="ikcr-c507" />
-        <item identifierRef="ikcr-c508" />
-        <item identifierRef="ikcr-c509" />
-        <item identifierRef="ikcr-c601" />
-        <item identifierRef="ikcr-c602" />
-        <item identifierRef="ikcr-c603" />
-        <item identifierRef="ikcr-c604" />
-        <item identifierRef="ikcr-c605" />
         <item identifierRef="ikcr-Z01" />
         <item identifierRef="ikcr-Z02" />
         <item identifierRef="ikcr-Z03" />
@@ -773,126 +716,937 @@
         <item identifierRef="ikcr-Z15" />
         <item identifierRef="ikcr-Z16" />
         <item identifierRef="ikcr-Z17" />
+        <item identifierRef="ikcr-c100" />
+        <item identifierRef="ikcr-c101" />
+        <item identifierRef="ikcr-c102" />
+        <item identifierRef="ikcr-c103" />
+        <item identifierRef="ikcr-c104" />
+        <item identifierRef="ikcr-c105" />
+        <item identifierRef="ikcr-c106" />
+        <item identifierRef="ikcr-c107" />
+        <item identifierRef="ikcr-c108" />
+        <item identifierRef="ikcr-c200" />
+        <item identifierRef="ikcr-c201" />
+        <item identifierRef="ikcr-c202" />
+        <item identifierRef="ikcr-c203" />
+        <item identifierRef="ikcr-c204" />
+        <item identifierRef="ikcr-c205" />
+        <item identifierRef="ikcr-c206" />
+        <item identifierRef="ikcr-c207" />
+        <item identifierRef="ikcr-c208" />
+        <item identifierRef="ikcr-c209" />
+        <item identifierRef="ikcr-c300" />
+        <item identifierRef="ikcr-c301" />
+        <item identifierRef="ikcr-c302" />
+        <item identifierRef="ikcr-c303" />
+        <item identifierRef="ikcr-c304" />
+        <item identifierRef="ikcr-c305" />
+        <item identifierRef="ikcr-c306" />
+        <item identifierRef="ikcr-c307" />
+        <item identifierRef="ikcr-c308" />
+        <item identifierRef="ikcr-c400" />
+        <item identifierRef="ikcr-c401" />
+        <item identifierRef="ikcr-c402" />
+        <item identifierRef="ikcr-c403" />
+        <item identifierRef="ikcr-c404" />
+        <item identifierRef="ikcr-c405" />
+        <item identifierRef="ikcr-c406" />
+        <item identifierRef="ikcr-c407" />
+        <item identifierRef="ikcr-c408" />
+        <item identifierRef="ikcr-c500" />
+        <item identifierRef="ikcr-c501" />
+        <item identifierRef="ikcr-c502" />
+        <item identifierRef="ikcr-c503" />
+        <item identifierRef="ikcr-c504" />
+        <item identifierRef="ikcr-c505" />
+        <item identifierRef="ikcr-c506" />
+        <item identifierRef="ikcr-c507" />
+        <item identifierRef="ikcr-c508" />
+        <item identifierRef="ikcr-c509" />
+        <item identifierRef="ikcr-c510" />
+        <item identifierRef="ikcr-c511" />
+        <item identifierRef="ikcr-c512" />
+        <item identifierRef="ikcr-c513" />
+        <item identifierRef="ikcr-c600" />
+        <item identifierRef="ikcr-c601" />
+        <item identifierRef="ikcr-c602" />
+        <item identifierRef="ikcr-c603" />
+        <item identifierRef="ikcr-c604" />
+        <item identifierRef="ikcr-c605" />
       </item>
     </item>
     <item>
       <label xml:lang="cs">Relations</label>
       <item>
         <label xml:lang="cs">Objekty IKČR</label>
-        <item identifierRef="ikcr___ikcr-Z17" />
-        <item identifierRef="ikcr___ikcr-Z16" />
-        <item identifierRef="ikcr___ikcr-Z15" />
-        <item identifierRef="ikcr___ikcr-Z14" />
-        <item identifierRef="ikcr___ikcr-Z13" />
-        <item identifierRef="ikcr___ikcr-Z12" />
-        <item identifierRef="ikcr___ikcr-Z11" />
-        <item identifierRef="ikcr___ikcr-Z10" />
-        <item identifierRef="ikcr___ikcr-P17" />
-        <item identifierRef="ikcr___ikcr-P16" />
-        <item identifierRef="ikcr___ikcr-P15" />
-        <item identifierRef="ikcr___ikcr-P14" />
-        <item identifierRef="ikcr___ikcr-P13" />
-        <item identifierRef="ikcr___ikcr-P12" />
-        <item identifierRef="ikcr___ikcr-P11" />
-        <item identifierRef="ikcr___ikcr-P10" />
-        <item identifierRef="ikcr___ikcr-Z09" />
-        <item identifierRef="ikcr___ikcr-Z08" />
-        <item identifierRef="ikcr___ikcr-Z07" />
-        <item identifierRef="ikcr___ikcr-Z06" />
-        <item identifierRef="ikcr___ikcr-Z05" />
-        <item identifierRef="ikcr___ikcr-Z04" />
-        <item identifierRef="ikcr___ikcr-Z03" />
-        <item identifierRef="ikcr___ikcr-Z02" />
-        <item identifierRef="ikcr___ikcr-Z01" />
-        <item identifierRef="ikcr___ikcr-P09" />
-        <item identifierRef="ikcr___ikcr-P08" />
-        <item identifierRef="ikcr___ikcr-P07" />
-        <item identifierRef="ikcr___ikcr-P06" />
-        <item identifierRef="ikcr___ikcr-P05" />
-        <item identifierRef="ikcr___ikcr-P04" />
-        <item identifierRef="ikcr___ikcr-P03" />
-        <item identifierRef="ikcr___ikcr-P02" />
         <item identifierRef="ikcr___ikcr-P01" />
+        <item identifierRef="ikcr___ikcr-P02" />
+        <item identifierRef="ikcr___ikcr-P03" />
+        <item identifierRef="ikcr___ikcr-P04" />
+        <item identifierRef="ikcr___ikcr-P05" />
+        <item identifierRef="ikcr___ikcr-P06" />
+        <item identifierRef="ikcr___ikcr-P07" />
+        <item identifierRef="ikcr___ikcr-P08" />
+        <item identifierRef="ikcr___ikcr-P09" />
+        <item identifierRef="ikcr___ikcr-P10" />
+        <item identifierRef="ikcr___ikcr-P11" />
+        <item identifierRef="ikcr___ikcr-P12" />
+        <item identifierRef="ikcr___ikcr-P13" />
+        <item identifierRef="ikcr___ikcr-P14" />
+        <item identifierRef="ikcr___ikcr-P15" />
+        <item identifierRef="ikcr___ikcr-P16" />
+        <item identifierRef="ikcr___ikcr-P17" />
+        <item identifierRef="ikcr___ikcr-Z01" />
+        <item identifierRef="ikcr___ikcr-Z02" />
+        <item identifierRef="ikcr___ikcr-Z03" />
+        <item identifierRef="ikcr___ikcr-Z04" />
+        <item identifierRef="ikcr___ikcr-Z05" />
+        <item identifierRef="ikcr___ikcr-Z06" />
+        <item identifierRef="ikcr___ikcr-Z07" />
+        <item identifierRef="ikcr___ikcr-Z08" />
+        <item identifierRef="ikcr___ikcr-Z09" />
+        <item identifierRef="ikcr___ikcr-Z10" />
+        <item identifierRef="ikcr___ikcr-Z11" />
+        <item identifierRef="ikcr___ikcr-Z12" />
+        <item identifierRef="ikcr___ikcr-Z13" />
+        <item identifierRef="ikcr___ikcr-Z14" />
+        <item identifierRef="ikcr___ikcr-Z15" />
+        <item identifierRef="ikcr___ikcr-Z16" />
+        <item identifierRef="ikcr___ikcr-Z17" />
         <item identifierRef="ikcr___ikcr-c100" />
-        <item identifierRef="ikcr___ikcr-c202" />
-        <item identifierRef="ikcr___ikcr-c400" />
-        <item identifierRef="ikcr___ikcr-c201" />
-        <item identifierRef="ikcr___ikcr-c200" />
-        <item identifierRef="ikcr___ikcr-c513" />
-        <item identifierRef="ikcr___ikcr-c512" />
-        <item identifierRef="ikcr___ikcr-c511" />
-        <item identifierRef="ikcr___ikcr-c206" />
-        <item identifierRef="ikcr___ikcr-c404" />
-        <item identifierRef="ikcr___ikcr-c602" />
-        <item identifierRef="ikcr___ikcr-c205" />
-        <item identifierRef="ikcr___ikcr-c403" />
-        <item identifierRef="ikcr___ikcr-c601" />
-        <item identifierRef="ikcr___ikcr-c204" />
-        <item identifierRef="ikcr___ikcr-c402" />
-        <item identifierRef="ikcr___ikcr-c600" />
-        <item identifierRef="ikcr___ikcr-c203" />
-        <item identifierRef="ikcr___ikcr-c401" />
-        <item identifierRef="ikcr___ikcr-c408" />
-        <item identifierRef="ikcr___ikcr-c209" />
-        <item identifierRef="ikcr___ikcr-c407" />
-        <item identifierRef="ikcr___ikcr-c605" />
-        <item identifierRef="ikcr___ikcr-c208" />
-        <item identifierRef="ikcr___ikcr-c406" />
-        <item identifierRef="ikcr___ikcr-c604" />
-        <item identifierRef="ikcr___ikcr-c207" />
-        <item identifierRef="ikcr___ikcr-c405" />
-        <item identifierRef="ikcr___ikcr-c603" />
-        <item identifierRef="ikcr___ikcr-c103" />
-        <item identifierRef="ikcr___ikcr-c301" />
-        <item identifierRef="ikcr___ikcr-c102" />
-        <item identifierRef="ikcr___ikcr-c300" />
         <item identifierRef="ikcr___ikcr-c101" />
-        <item identifierRef="ikcr___ikcr-c510" />
-        <item identifierRef="ikcr___ikcr-c509" />
-        <item identifierRef="ikcr___ikcr-c508" />
-        <item identifierRef="ikcr___ikcr-c107" />
-        <item identifierRef="ikcr___ikcr-c305" />
-        <item identifierRef="ikcr___ikcr-c503" />
-        <item identifierRef="ikcr___ikcr-c106" />
-        <item identifierRef="ikcr___ikcr-c304" />
-        <item identifierRef="ikcr___ikcr-c502" />
-        <item identifierRef="ikcr___ikcr-c105" />
-        <item identifierRef="ikcr___ikcr-c303" />
-        <item identifierRef="ikcr___ikcr-c501" />
+        <item identifierRef="ikcr___ikcr-c102" />
+        <item identifierRef="ikcr___ikcr-c103" />
         <item identifierRef="ikcr___ikcr-c104" />
-        <item identifierRef="ikcr___ikcr-c302" />
-        <item identifierRef="ikcr___ikcr-c500" />
-        <item identifierRef="ikcr___ikcr-c507" />
-        <item identifierRef="ikcr___ikcr-c308" />
-        <item identifierRef="ikcr___ikcr-c506" />
-        <item identifierRef="ikcr___ikcr-c307" />
-        <item identifierRef="ikcr___ikcr-c505" />
+        <item identifierRef="ikcr___ikcr-c105" />
+        <item identifierRef="ikcr___ikcr-c106" />
+        <item identifierRef="ikcr___ikcr-c107" />
         <item identifierRef="ikcr___ikcr-c108" />
+        <item identifierRef="ikcr___ikcr-c200" />
+        <item identifierRef="ikcr___ikcr-c201" />
+        <item identifierRef="ikcr___ikcr-c202" />
+        <item identifierRef="ikcr___ikcr-c203" />
+        <item identifierRef="ikcr___ikcr-c204" />
+        <item identifierRef="ikcr___ikcr-c205" />
+        <item identifierRef="ikcr___ikcr-c206" />
+        <item identifierRef="ikcr___ikcr-c207" />
+        <item identifierRef="ikcr___ikcr-c208" />
+        <item identifierRef="ikcr___ikcr-c209" />
+        <item identifierRef="ikcr___ikcr-c300" />
+        <item identifierRef="ikcr___ikcr-c301" />
+        <item identifierRef="ikcr___ikcr-c302" />
+        <item identifierRef="ikcr___ikcr-c303" />
+        <item identifierRef="ikcr___ikcr-c304" />
+        <item identifierRef="ikcr___ikcr-c305" />
         <item identifierRef="ikcr___ikcr-c306" />
+        <item identifierRef="ikcr___ikcr-c307" />
+        <item identifierRef="ikcr___ikcr-c308" />
+        <item identifierRef="ikcr___ikcr-c400" />
+        <item identifierRef="ikcr___ikcr-c401" />
+        <item identifierRef="ikcr___ikcr-c402" />
+        <item identifierRef="ikcr___ikcr-c403" />
+        <item identifierRef="ikcr___ikcr-c404" />
+        <item identifierRef="ikcr___ikcr-c405" />
+        <item identifierRef="ikcr___ikcr-c406" />
+        <item identifierRef="ikcr___ikcr-c407" />
+        <item identifierRef="ikcr___ikcr-c408" />
+        <item identifierRef="ikcr___ikcr-c500" />
+        <item identifierRef="ikcr___ikcr-c501" />
+        <item identifierRef="ikcr___ikcr-c502" />
+        <item identifierRef="ikcr___ikcr-c503" />
         <item identifierRef="ikcr___ikcr-c504" />
+        <item identifierRef="ikcr___ikcr-c505" />
+        <item identifierRef="ikcr___ikcr-c506" />
+        <item identifierRef="ikcr___ikcr-c507" />
+        <item identifierRef="ikcr___ikcr-c508" />
+        <item identifierRef="ikcr___ikcr-c509" />
+        <item identifierRef="ikcr___ikcr-c510" />
+        <item identifierRef="ikcr___ikcr-c511" />
+        <item identifierRef="ikcr___ikcr-c512" />
+        <item identifierRef="ikcr___ikcr-c513" />
+        <item identifierRef="ikcr___ikcr-c600" />
+        <item identifierRef="ikcr___ikcr-c601" />
+        <item identifierRef="ikcr___ikcr-c602" />
+        <item identifierRef="ikcr___ikcr-c603" />
+        <item identifierRef="ikcr___ikcr-c604" />
+        <item identifierRef="ikcr___ikcr-c605" />
+        <item identifierRef="ikcr___ikcr-mrict" />
         <item identifierRef="ikcr___ikcr-nap" />
         <item identifierRef="ikcr___ikcr-nar" />
-        <item identifierRef="ikcr___ikcr-mrict" />
-        <item identifierRef="ikcr-Z10___ikcr-P12" />
+        <item identifierRef="ikcr-Z01___ikcr-P09" />
         <item identifierRef="ikcr-Z04___ikcr-P09" />
-        <item identifierRef="ikcr-Z05___ikcr-P10" />
-        <item identifierRef="ikcr-Z04___ikcr-P11" />
         <item identifierRef="ikcr-Z04___ikcr-P10" />
-        <item identifierRef="ikcr-Z16___ikcr-P04" />
+        <item identifierRef="ikcr-Z04___ikcr-P11" />
         <item identifierRef="ikcr-Z04___ikcr-P12" />
-        <item identifierRef="ikcr-Z04___ikcr-P17" />
         <item identifierRef="ikcr-Z04___ikcr-P16" />
-        <item identifierRef="ikcr-Z13___ikcr-P16" />
-        <item identifierRef="ikcr-Z13___ikcr-P17" />
+        <item identifierRef="ikcr-Z04___ikcr-P17" />
+        <item identifierRef="ikcr-Z05___ikcr-P04" />
+        <item identifierRef="ikcr-Z05___ikcr-P10" />
+        <item identifierRef="ikcr-Z10___ikcr-P12" />
+        <item identifierRef="ikcr-Z13___ikcr-P01" />
+        <item identifierRef="ikcr-Z13___ikcr-P02" />
+        <item identifierRef="ikcr-Z13___ikcr-P04" />
         <item identifierRef="ikcr-Z13___ikcr-P09" />
         <item identifierRef="ikcr-Z13___ikcr-P10" />
-        <item identifierRef="ikcr-Z01___ikcr-P09" />
-        <item identifierRef="ikcr-Z13___ikcr-P04" />
-        <item identifierRef="ikcr-Z05___ikcr-P04" />
-        <item identifierRef="ikcr-Z13___ikcr-P01" />
         <item identifierRef="ikcr-Z13___ikcr-P12" />
-        <item identifierRef="ikcr-Z13___ikcr-P02" />
+        <item identifierRef="ikcr-Z13___ikcr-P16" />
+        <item identifierRef="ikcr-Z13___ikcr-P17" />
+        <item identifierRef="ikcr-Z16___ikcr-P04" />
       </item>
     </item>
+    <item>
+      <label xml:lang="cs">Views</label>
+      <item identifierRef="id-5ca3fa6f3f3a4457bc34cb64a2f646c8" />
+      <item identifierRef="id-9a9ccf3b8d034f9e904d9f6cf41d8bfd" />
+    </item>
   </organizations>
+  <views>
+    <diagrams>
+      <view identifier="id-5ca3fa6f3f3a4457bc34cb64a2f646c8" xsi:type="Diagram">
+        <name xml:lang="cs">Schéma architektonických principů a zásad z IKČR</name>
+        <node identifier="id-604506e6fcb84bd98239dc16f5ba7ba7" elementRef="ikcr-Z01" xsi:type="Element" x="528" y="1104" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-a366a6cc30fb470cb8d9fefa40adeaf8" elementRef="ikcr-Z02" xsi:type="Element" x="250" y="84" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-52c8c1bf2ca84142a594157066b70ef8" elementRef="ikcr-Z03" xsi:type="Element" x="384" y="36" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" elementRef="ikcr-Z04" xsi:type="Element" x="1536" y="1356" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-871cfc8785e64d0ba4e85aa9a5e35936" elementRef="ikcr-Z05" xsi:type="Element" x="1428" y="696" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-1cb8210064554dd39864126b498084cd" elementRef="ikcr-Z06" xsi:type="Element" x="528" y="10" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-988a40e53226407cb2cb094ee6e59b40" elementRef="ikcr-Z07" xsi:type="Element" x="696" y="0" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-e84de1395adb43ff8cc90cbacfd52465" elementRef="ikcr-Z08" xsi:type="Element" x="167" y="168" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-db2f1d9ac3414d74aa7b16a7b40d4d6b" elementRef="ikcr-Z09" xsi:type="Element" x="108" y="252" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-31c9b583e5054204b4bf2673fa41b4d8" elementRef="ikcr-Z10" xsi:type="Element" x="1056" y="1140" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-6d9c1b30a11c42868ad4ab168810b727" elementRef="ikcr-Z11" xsi:type="Element" x="48" y="348" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-5317782827e44659b56f110c52755de2" elementRef="ikcr-Z12" xsi:type="Element" x="36" y="444" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" elementRef="ikcr-Z13" xsi:type="Element" x="12" y="1488" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-82857855795b48bb848d0fb633fb11da" elementRef="ikcr-Z14" xsi:type="Element" x="36" y="540" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-430a7922b2284fba8fb86831364823d7" elementRef="ikcr-Z15" xsi:type="Element" x="48" y="636" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-0dcd5032bac24d66853a264edf598113" elementRef="ikcr-Z16" xsi:type="Element" x="1645" y="672" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-6f524a15de814cb6b942931d8cd365ee" elementRef="ikcr-Z17" xsi:type="Element" x="59" y="732" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-d5331f5d1c914128adc8bf6b957908a1" elementRef="ikcr-P09" xsi:type="Element" x="298" y="1272" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-e5ca1edd668943a299a2ccc3780148a9" elementRef="ikcr" xsi:type="Element" x="804" y="522" w="120" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-4069945de3664e0d86165a063ea9e2da" elementRef="ikcr-P10" xsi:type="Element" x="1056" y="930" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-f2fea7ce556d4a4e9cb13f9a51b203d1" elementRef="ikcr-P11" xsi:type="Element" x="1428" y="804" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-4792dcd3e5aa40c7be323bed1227484c" elementRef="ikcr-P12" xsi:type="Element" x="1344" y="912" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-def30be5494f4c2d9a3d81b417527c0b" elementRef="ikcr-P16" xsi:type="Element" x="708" y="1422" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-a0345307cbe8490f9f92932f28df802b" elementRef="ikcr-P17" xsi:type="Element" x="937" y="1260" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-8714b0a774134572bacefb69ebc6ad01" elementRef="ikcr-P04" xsi:type="Element" x="1764" y="1452" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-5eaa3acd2e8f4a059270e3eb86f300c0" elementRef="ikcr-P01" xsi:type="Element" x="178" y="984" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-ba03dc0a61284a1db5a3e382b25a61c5" elementRef="ikcr-P02" xsi:type="Element" x="108" y="852" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-4a9a159d457a4c75be796d3a6411c762" elementRef="ikcr-P03" xsi:type="Element" x="876" y="0" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-af48c8b93b4e44acae6f1f003cf6202e" elementRef="ikcr-P05" xsi:type="Element" x="1020" y="36" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-a8057b04ac1e42d2a305f539229f5d80" elementRef="ikcr-P06" xsi:type="Element" x="1163" y="114" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-97fb6cf2ab8b4771acd8a93adcd972fd" elementRef="ikcr-P07" xsi:type="Element" x="1249" y="204" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-f195a0588d24454f9bab0eaf40873cd3" elementRef="ikcr-P08" xsi:type="Element" x="1320" y="300" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-4cd9cd25c18348ef8b67585d5f7d1004" elementRef="ikcr-P13" xsi:type="Element" x="1368" y="378" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-8021a47cf9034940b2eea49c79cf5809" elementRef="ikcr-P14" xsi:type="Element" x="1403" y="468" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-9b0a472e17e04e2bb33d5a04f4c19ac1" elementRef="ikcr-P15" xsi:type="Element" x="1416" y="576" w="120" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <connection identifier="id-4f5bdd8e8df4423a80da7f2c4e483245" relationshipRef="ikcr-Z01___ikcr-P09" xsi:type="Relationship" source="id-604506e6fcb84bd98239dc16f5ba7ba7" target="id-d5331f5d1c914128adc8bf6b957908a1">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-4d05616579df4733b9f8b884a7f9da7b" relationshipRef="ikcr-Z04___ikcr-P09" xsi:type="Relationship" source="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" target="id-d5331f5d1c914128adc8bf6b957908a1">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-766b194d61ce4c8bb330803859bef854" relationshipRef="ikcr-Z04___ikcr-P10" xsi:type="Relationship" source="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" target="id-4069945de3664e0d86165a063ea9e2da">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-f8d32cba415d4d78a3e9b996404bbf97" relationshipRef="ikcr-Z04___ikcr-P11" xsi:type="Relationship" source="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" target="id-f2fea7ce556d4a4e9cb13f9a51b203d1">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-74616f65f3c547a4b56c9ad5cdf18165" relationshipRef="ikcr-Z04___ikcr-P12" xsi:type="Relationship" source="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" target="id-4792dcd3e5aa40c7be323bed1227484c">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-1fa0b539e8974108bbcba6e6efb35622" relationshipRef="ikcr-Z04___ikcr-P16" xsi:type="Relationship" source="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" target="id-def30be5494f4c2d9a3d81b417527c0b">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-63fd3969a2454070b072a028568bbe81" relationshipRef="ikcr-Z04___ikcr-P17" xsi:type="Relationship" source="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" target="id-a0345307cbe8490f9f92932f28df802b">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-db079e13dc914888bf6d4515dc9d0a7c" relationshipRef="ikcr-Z05___ikcr-P04" xsi:type="Relationship" source="id-871cfc8785e64d0ba4e85aa9a5e35936" target="id-8714b0a774134572bacefb69ebc6ad01">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-dc82f94b3e4f4afd9ed4af3863b6f6c8" relationshipRef="ikcr-Z05___ikcr-P10" xsi:type="Relationship" source="id-871cfc8785e64d0ba4e85aa9a5e35936" target="id-4069945de3664e0d86165a063ea9e2da">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-82cbca343fcb4b1182a3d8e6772132de" relationshipRef="ikcr-Z10___ikcr-P12" xsi:type="Relationship" source="id-31c9b583e5054204b4bf2673fa41b4d8" target="id-4792dcd3e5aa40c7be323bed1227484c">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-dd6bd7b542c0465cbbc53433e908c54f" relationshipRef="ikcr-Z13___ikcr-P01" xsi:type="Relationship" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-5eaa3acd2e8f4a059270e3eb86f300c0">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-0b4edd3b28bb4a4f805fa0de0a5c4958" relationshipRef="ikcr-Z13___ikcr-P02" xsi:type="Relationship" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-ba03dc0a61284a1db5a3e382b25a61c5">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-f493135cf42e421f86bafa341bc014fb" relationshipRef="ikcr-Z13___ikcr-P04" xsi:type="Relationship" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-8714b0a774134572bacefb69ebc6ad01">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-d39763d8a0524479a620a5194cf9f99a" relationshipRef="ikcr-Z13___ikcr-P09" xsi:type="Relationship" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-d5331f5d1c914128adc8bf6b957908a1">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-eddd859f02db4150a65afeaa098a1042" relationshipRef="ikcr-Z13___ikcr-P10" xsi:type="Relationship" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-4069945de3664e0d86165a063ea9e2da">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-812638e80eeb4c4989124370cdd52d61" relationshipRef="ikcr-Z13___ikcr-P12" xsi:type="Relationship" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-4792dcd3e5aa40c7be323bed1227484c">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-0bf7eac2f42849e6bdd1963385809270" relationshipRef="ikcr-Z13___ikcr-P16" xsi:type="Relationship" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-def30be5494f4c2d9a3d81b417527c0b">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-75ab7976ef3e46f6aecb217887a1466d" relationshipRef="ikcr-Z13___ikcr-P17" xsi:type="Relationship" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-a0345307cbe8490f9f92932f28df802b">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-436ffdbe88af49e3a95b66cfac5448fd" relationshipRef="ikcr-Z16___ikcr-P04" xsi:type="Relationship" source="id-0dcd5032bac24d66853a264edf598113" target="id-8714b0a774134572bacefb69ebc6ad01">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-e2b1336f733a43608cc105e28b372e92" relationshipRef="ikcr___ikcr-P01" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-5eaa3acd2e8f4a059270e3eb86f300c0">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-a432fb82712d43bbaf83fbccc40f94ac" relationshipRef="ikcr___ikcr-P02" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-ba03dc0a61284a1db5a3e382b25a61c5">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-1e3a45ffcb5b4c4eb03873fcf29f7aef" relationshipRef="ikcr___ikcr-P04" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-8714b0a774134572bacefb69ebc6ad01">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-0294cb263a4b4c33b94b4d18be879c0e" relationshipRef="ikcr___ikcr-P09" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-d5331f5d1c914128adc8bf6b957908a1">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-2e4e3871eedc4ec1a24b0f2559be93ab" relationshipRef="ikcr___ikcr-P10" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-4069945de3664e0d86165a063ea9e2da">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-2b64eec96b214f928eb1d73d0ecb2c31" relationshipRef="ikcr___ikcr-P11" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-f2fea7ce556d4a4e9cb13f9a51b203d1">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-5379f4d4dfd846a89ecd7687d7b789b5" relationshipRef="ikcr___ikcr-P12" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-4792dcd3e5aa40c7be323bed1227484c">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-6d703ba1e29b43c998053a903272665e" relationshipRef="ikcr___ikcr-P16" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-def30be5494f4c2d9a3d81b417527c0b">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-e53dd0767b924332965d7c086b294928" relationshipRef="ikcr___ikcr-P17" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-a0345307cbe8490f9f92932f28df802b">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-79d380e4493b4ddd9132e2c694710dab" relationshipRef="ikcr___ikcr-Z01" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-604506e6fcb84bd98239dc16f5ba7ba7">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-6aeeaf026f944a5a80a25925c073ac9c" relationshipRef="ikcr___ikcr-Z02" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-a366a6cc30fb470cb8d9fefa40adeaf8">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-4000ec0b83c54d5bb90288404005c149" relationshipRef="ikcr___ikcr-Z03" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-52c8c1bf2ca84142a594157066b70ef8">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-6bf402fe502748cda296ea38855b5b46" relationshipRef="ikcr___ikcr-Z04" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-4ffb99dc4eeb4c4187f9843ec0e8d71f">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-a641e1617f0d4cada2410d26fac82711" relationshipRef="ikcr___ikcr-Z05" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-871cfc8785e64d0ba4e85aa9a5e35936">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-f57900a49b64458b8e68ca5ee3a8c227" relationshipRef="ikcr___ikcr-Z06" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-1cb8210064554dd39864126b498084cd">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-469738d3e641460095ed4115384bac69" relationshipRef="ikcr___ikcr-Z07" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-988a40e53226407cb2cb094ee6e59b40">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-025b0df24de4453ea19191981b22372e" relationshipRef="ikcr___ikcr-Z08" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-e84de1395adb43ff8cc90cbacfd52465">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-66770d7f397c461c8ff7b00410c18ba2" relationshipRef="ikcr___ikcr-Z09" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-db2f1d9ac3414d74aa7b16a7b40d4d6b">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-28729d82f37c43508b15b8a690104ddb" relationshipRef="ikcr___ikcr-Z10" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-31c9b583e5054204b4bf2673fa41b4d8">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-34b7012f1ab14ae5a4c3c6a758948f2f" relationshipRef="ikcr___ikcr-Z11" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-6d9c1b30a11c42868ad4ab168810b727">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-a2a549f4860940a28b7c882a1aad28a7" relationshipRef="ikcr___ikcr-Z12" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-5317782827e44659b56f110c52755de2">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-a5b9c096f0384731939502e946db1dc1" relationshipRef="ikcr___ikcr-Z13" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-0ef84a8aaa6c4e9c8e3488d87f6a2931">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-ae4c105379a8485c91da0574bf0c092f" relationshipRef="ikcr___ikcr-Z14" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-82857855795b48bb848d0fb633fb11da">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-2705506798a44c9b977263b9373528fe" relationshipRef="ikcr___ikcr-Z15" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-430a7922b2284fba8fb86831364823d7">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-3a27c25528a24ae09cd25d9363b63c76" relationshipRef="ikcr___ikcr-Z16" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-0dcd5032bac24d66853a264edf598113">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-e290121dc70e40f9a14a39faedb11c67" relationshipRef="ikcr___ikcr-Z17" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-6f524a15de814cb6b942931d8cd365ee">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-1074fcdb8fe64d3d95826c620a301fed" relationshipRef="ikcr___ikcr-P03" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-4a9a159d457a4c75be796d3a6411c762">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-0348ebaa2acb4e4dbdfd195374096e7d" relationshipRef="ikcr___ikcr-P05" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-af48c8b93b4e44acae6f1f003cf6202e">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-2c212786360448e5b8e1a2b3001b1e3d" relationshipRef="ikcr___ikcr-P06" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-a8057b04ac1e42d2a305f539229f5d80">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-cca1fc759b9b4da698a1745cdf6bbadc" relationshipRef="ikcr___ikcr-P07" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-97fb6cf2ab8b4771acd8a93adcd972fd">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-b6bb4828103546a28b8cf035154dbe5b" relationshipRef="ikcr___ikcr-P08" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-f195a0588d24454f9bab0eaf40873cd3">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-cd2ad17130db481286e7a795571ae65b" relationshipRef="ikcr___ikcr-P13" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-4cd9cd25c18348ef8b67585d5f7d1004">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-b0c203aba61a49f3ad57f733c3cbbad6" relationshipRef="ikcr___ikcr-P14" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-8021a47cf9034940b2eea49c79cf5809">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-666c6f2037d04e8f84dcfd0f0a613281" relationshipRef="ikcr___ikcr-P15" xsi:type="Relationship" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-9b0a472e17e04e2bb33d5a04f4c19ac1">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Lucida Grande" size="12">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+      </view>
+      <view identifier="id-9a9ccf3b8d034f9e904d9f6cf41d8bfd" xsi:type="Diagram">
+        <name xml:lang="cs">Default View</name>
+      </view>
+    </diagrams>
+  </views>
 </model>

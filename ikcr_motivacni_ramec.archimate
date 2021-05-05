@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="IKČR motivační rámec 1.0" id="id-0a9765a620524d37bf1a41d1db986b81" version="4.6.0">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="IKČR motivační rámec 1.1" id="id-0a9765a620524d37bf1a41d1db986b81" version="4.6.0">
+  <metadata/>
   <folder name="Strategy" id="id-45e2aeb753d848afa0c4cb7776adae1a" type="strategy"/>
   <folder name="Business" id="id-e932e8d9a790486890966a814524c54c" type="business">
     <folder name="Objekty IKČR" id="id-2781215d97f344258bcf81eaefca1000">
@@ -72,63 +73,6 @@
       <element xsi:type="archimate:Principle" name="Architektonický princip P17: Omezení budování monolitických systémů" id="ikcr-P17">
         <documentation>Soutěžení menších, vzájemně provázaných celků bude znamenat více možností dodávat státu i pro menší spolehlivé dodavatele. Cílem je soutěžit nejlepší řešení v dané oblasti, ne největší řešení na trhu.</documentation>
       </element>
-      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 1: UŽIVATELSKY PŘÍVĚTIVÉ A EFEKTIVNÍ „ON-LINE“ SLUŽBY PRO OBČANY A FIRMY" id="ikcr-c100"/>
-      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 2: DIGITÁLNĚ PŘÍVĚTIVÁ LEGISLATIVA" id="ikcr-c200"/>
-      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 3: ROZVOJ PROSTŘEDÍ PODPORUJÍCÍHO DIGITÁLNÍ TECHNOLOGIE V OBLASTI eGOVERNMENTU" id="ikcr-c300"/>
-      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 4: ZVÝŠENÍ KAPACIT A KOMPETENCÍ ZAMĚSTNANCŮ VE VEŘEJNÉ SPRÁVĚ" id="ikcr-c400"/>
-      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 5: EFEKTIVNÍ A CENTRÁLNĚ KOORDINOVANÉ ICT VEŘEJNÉ SPRÁVY" id="ikcr-c500"/>
-      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 6: EFEKTIVNÍ A PRUŽNÝ DIGITÁLNÍ ÚŘAD" id="ikcr-c600"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.1: Katalog služeb veřejné správy" id="ikcr-c101"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.2: Informování o službách veřejnosti" id="ikcr-c102"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.3: Rozvoj univerzálních front-office služeb" id="ikcr-c103"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.4: Rozvoj klientských služeb resortů" id="ikcr-c104"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.5: Rozvoj Národního katalogu otevřených dat" id="ikcr-c105"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.6: Stanovení rolí a zodpovědnosti za služby OVM" id="ikcr-c106"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.7: Systém zapojení veřejnosti a subjektů do zlepšování EG služeb" id="ikcr-c107"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.8: Metodiky a principy uživatelské přívětivosti" id="ikcr-c108"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.1: Zajistit povinnost vytváření digitálně přívětivé legislativy" id="ikcr-c201"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.2: Podíl na tvorbě evropské legislativy" id="ikcr-c202"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.3: Projekty eSbírka a eLegislativa" id="ikcr-c203"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.4: Analyzování a úpravy právních předpisů pro služby EG" id="ikcr-c204"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.5: Zakotvení práva na digitální služby" id="ikcr-c205"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.6: Aktualizace legislativy k eGovernmentu" id="ikcr-c206"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.7: Analýza služeb EG směrem ke komerčnímu sektoru a klientům" id="ikcr-c207"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.8: Metodika pro veřejné zakázky v ICT a EG" id="ikcr-c208"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.9: Nové návrhy právních předpisů na podporu eGovernmentu" id="ikcr-c209"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.1: Využití prostředků ESF na rozvoj digitalizace" id="ikcr-c301"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.2: Digitalizace dosud nedigitalizovaného obsahu" id="ikcr-c302"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.3: Digitalizace a správa úředních dokumentů a úředního obsahu" id="ikcr-c303"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.4: Zkvalitnění Registru práv a povinností a jeho obsahu" id="ikcr-c304"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.5: Rozvoj komunikační infrastruktury státu" id="ikcr-c305"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.6: Rozvoj systémů elektronické identifikace (EID)" id="ikcr-c306"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.7: Prostorová data" id="ikcr-c307"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.8: Kybernetická bezpečnost" id="ikcr-c308"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.1: Úpravy systemizace a katalogizace profesí v IT a DPL" id="ikcr-c401"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.2: Opatření pro získání a udržení klíčových specialistů v rámci veřejné správy" id="ikcr-c402"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.3: Intenzivní spolupráce s vysokými školami" id="ikcr-c403"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.4: Sdílená kompetenční centra a zvyšování kapacit" id="ikcr-c404"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.5: Institucionalizace klíčových útvarů a rolí v úřadech" id="ikcr-c405"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.6: Kompetence a zdroje pro realizaci změn" id="ikcr-c406"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.7: Zavedení procesního řízení a řízení služeb ve veřejné správě" id="ikcr-c407"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.8: Rozvoj systému vzdělávání a odborné přípravy zaměstnanců veřejné správy směrem k EG" id="ikcr-c408"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.10: Rozvoj otevřených dat a veřejného fondu dat a služeb veřejné správy" id="ikcr-c510"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.11: Rozvoj geoinformatiky a prostorových informací" id="ikcr-c511"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.12: Hodnocení realizace IKČR a zpětná vazba" id="ikcr-c512"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.13: IS nové generace" id="ikcr-c513"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.1: Implementace procesu řízení IKČR" id="ikcr-c501"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.2: Alokace lidských a institucionálních zdrojů pro realizaci IKČR" id="ikcr-c502"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.3: Zavedení principů pro řízení a rozvoj architektury v úřadech" id="ikcr-c503"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.4: Realizace modelu spolupráce OVM a podniků poskytujících infrastrukturu" id="ikcr-c504"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.5: eGovernment cloud" id="ikcr-c505"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.6: Standardizace v EG a aslužbách" id="ikcr-c506"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.7: Podpora agend vykonávaných v přenesené působnosti formou sdílení údajů a AISů" id="ikcr-c507"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.8: Podpora agendových systémů pro výkon samostatné působnosti" id="ikcr-c508"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.9: Rozvoj Propojeného datového fondu (PPDF)" id="ikcr-c509"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.1: Podpora práce úředníků" id="ikcr-c601"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.2: Vnitřní elektronizace" id="ikcr-c602"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.3: Nové metody řízení úřadu" id="ikcr-c603"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.4: Nové provozní a podpůrné systémy" id="ikcr-c604"/>
-      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.5: Vnitřní infrastruktura" id="ikcr-c605"/>
       <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z01: Na prvním místě je klient" id="ikcr-Z01">
         <documentation>Rozhodování v IT je na prvním místě zaměřeno na dodávku efektivních služeb, představujících zřetelnou hodnotu pro externí i interní klienty, příjemce a uživatele těchto ICT služeb na podporu výkonu služeb veřejné správy.</documentation>
       </element>
@@ -180,126 +124,345 @@
       <element xsi:type="archimate:Principle" name="Zásada řízení ICT Z17: Podpora vyváženého partnerství s dodavateli" id="ikcr-Z17">
         <documentation>Správce ISVS musí zajistit, aby vždy disponoval programovými kódy ISVS, detailní dokumentací k ISVS, licenčními právy k ISVS (právy k užívání autorského díla) a vlastní způsobilostí rozhodovat o ISVS tak, aby bylo možné upravovat a spravovat systém i prostřednictvím třetích osob, nezávislých na původním dodavateli či správci ISVS.</documentation>
       </element>
+      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 1: UŽIVATELSKY PŘÍVĚTIVÉ A EFEKTIVNÍ „ON-LINE“ SLUŽBY PRO OBČANY A FIRMY" id="ikcr-c100"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.1: Katalog služeb veřejné správy" id="ikcr-c101"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.2: Informování o službách veřejnosti" id="ikcr-c102"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.3: Rozvoj univerzálních front-office služeb" id="ikcr-c103"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.4: Rozvoj klientských služeb resortů" id="ikcr-c104"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.5: Rozvoj Národního katalogu otevřených dat" id="ikcr-c105"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.6: Stanovení rolí a zodpovědnosti za služby OVM" id="ikcr-c106"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.7: Systém zapojení veřejnosti a subjektů do zlepšování EG služeb" id="ikcr-c107"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 1.8: Metodiky a principy uživatelské přívětivosti" id="ikcr-c108"/>
+      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 2: DIGITÁLNĚ PŘÍVĚTIVÁ LEGISLATIVA" id="ikcr-c200"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.1: Zajistit povinnost vytváření digitálně přívětivé legislativy" id="ikcr-c201"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.2: Podíl na tvorbě evropské legislativy" id="ikcr-c202"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.3: Projekty eSbírka a eLegislativa" id="ikcr-c203"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.4: Analyzování a úpravy právních předpisů pro služby EG" id="ikcr-c204"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.5: Zakotvení práva na digitální služby" id="ikcr-c205"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.6: Aktualizace legislativy k eGovernmentu" id="ikcr-c206"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.7: Analýza služeb EG směrem ke komerčnímu sektoru a klientům" id="ikcr-c207"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.8: Metodika pro veřejné zakázky v ICT a EG" id="ikcr-c208"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 2.9: Nové návrhy právních předpisů na podporu eGovernmentu" id="ikcr-c209"/>
+      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 3: ROZVOJ PROSTŘEDÍ PODPORUJÍCÍHO DIGITÁLNÍ TECHNOLOGIE V OBLASTI eGOVERNMENTU" id="ikcr-c300"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.1: Využití prostředků ESF na rozvoj digitalizace" id="ikcr-c301"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.2: Digitalizace dosud nedigitalizovaného obsahu" id="ikcr-c302"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.3: Digitalizace a správa úředních dokumentů a úředního obsahu" id="ikcr-c303"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.4: Zkvalitnění Registru práv a povinností a jeho obsahu" id="ikcr-c304"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.5: Rozvoj komunikační infrastruktury státu" id="ikcr-c305"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.6: Rozvoj systémů elektronické identifikace (EID)" id="ikcr-c306"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.7: Prostorová data" id="ikcr-c307"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 3.8: Kybernetická bezpečnost" id="ikcr-c308"/>
+      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 4: ZVÝŠENÍ KAPACIT A KOMPETENCÍ ZAMĚSTNANCŮ VE VEŘEJNÉ SPRÁVĚ" id="ikcr-c400"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.1: Úpravy systemizace a katalogizace profesí v IT a DPL" id="ikcr-c401"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.2: Opatření pro získání a udržení klíčových specialistů v rámci veřejné správy" id="ikcr-c402"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.3: Intenzivní spolupráce s vysokými školami" id="ikcr-c403"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.4: Sdílená kompetenční centra a zvyšování kapacit" id="ikcr-c404"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.5: Institucionalizace klíčových útvarů a rolí v úřadech" id="ikcr-c405"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.6: Kompetence a zdroje pro realizaci změn" id="ikcr-c406"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.7: Zavedení procesního řízení a řízení služeb ve veřejné správě" id="ikcr-c407"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 4.8: Rozvoj systému vzdělávání a odborné přípravy zaměstnanců veřejné správy směrem k EG" id="ikcr-c408"/>
+      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 5: EFEKTIVNÍ A CENTRÁLNĚ KOORDINOVANÉ ICT VEŘEJNÉ SPRÁVY" id="ikcr-c500"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.1: Implementace procesu řízení IKČR" id="ikcr-c501"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.2: Alokace lidských a institucionálních zdrojů pro realizaci IKČR" id="ikcr-c502"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.3: Zavedení principů pro řízení a rozvoj architektury v úřadech" id="ikcr-c503"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.4: Realizace modelu spolupráce OVM a podniků poskytujících infrastrukturu" id="ikcr-c504"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.5: eGovernment cloud" id="ikcr-c505"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.6: Standardizace v EG a aslužbách" id="ikcr-c506"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.7: Podpora agend vykonávaných v přenesené působnosti formou sdílení údajů a AISů" id="ikcr-c507"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.8: Podpora agendových systémů pro výkon samostatné působnosti" id="ikcr-c508"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.9: Rozvoj Propojeného datového fondu (PPDF)" id="ikcr-c509"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.10: Rozvoj otevřených dat a veřejného fondu dat a služeb veřejné správy" id="ikcr-c510"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.11: Rozvoj geoinformatiky a prostorových informací" id="ikcr-c511"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.12: Hodnocení realizace IKČR a zpětná vazba" id="ikcr-c512"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 5.13: IS nové generace" id="ikcr-c513"/>
+      <element xsi:type="archimate:Goal" name="Cíl IKČR č. 6: EFEKTIVNÍ A PRUŽNÝ DIGITÁLNÍ ÚŘAD" id="ikcr-c600"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.1: Podpora práce úředníků" id="ikcr-c601"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.2: Vnitřní elektronizace" id="ikcr-c602"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.3: Nové metody řízení úřadu" id="ikcr-c603"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.4: Nové provozní a podpůrné systémy" id="ikcr-c604"/>
+      <element xsi:type="archimate:Goal" name="Dílčí cíl 6.5: Vnitřní infrastruktura" id="ikcr-c605"/>
     </folder>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-70847c9e9a6a40f9b28e63cb9c53faeb" type="implementation_migration"/>
   <folder name="Other" id="id-e397985a11bf4b4999bb4525dff15548" type="other"/>
   <folder name="Relations" id="id-766eb4a384f443938a43b495ad65c7e6" type="relations">
     <folder name="Objekty IKČR" id="id-b64da564a71349bf96af5a8e09ea47be">
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z17" source="ikcr" target="ikcr-Z17"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z16" source="ikcr" target="ikcr-Z16"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z15" source="ikcr" target="ikcr-Z15"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z14" source="ikcr" target="ikcr-Z14"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z13" source="ikcr" target="ikcr-Z13"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z12" source="ikcr" target="ikcr-Z12"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z11" source="ikcr" target="ikcr-Z11"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z10" source="ikcr" target="ikcr-Z10"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P17" source="ikcr" target="ikcr-P17"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P16" source="ikcr" target="ikcr-P16"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P15" source="ikcr" target="ikcr-P15"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P14" source="ikcr" target="ikcr-P14"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P13" source="ikcr" target="ikcr-P13"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P12" source="ikcr" target="ikcr-P12"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P11" source="ikcr" target="ikcr-P11"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P10" source="ikcr" target="ikcr-P10"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z09" source="ikcr" target="ikcr-Z09"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z08" source="ikcr" target="ikcr-Z08"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z07" source="ikcr" target="ikcr-Z07"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z06" source="ikcr" target="ikcr-Z06"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z05" source="ikcr" target="ikcr-Z05"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z04" source="ikcr" target="ikcr-Z04"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z03" source="ikcr" target="ikcr-Z03"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z02" source="ikcr" target="ikcr-Z02"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z01" source="ikcr" target="ikcr-Z01"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P09" source="ikcr" target="ikcr-P09"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P08" source="ikcr" target="ikcr-P08"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P07" source="ikcr" target="ikcr-P07"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P06" source="ikcr" target="ikcr-P06"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P05" source="ikcr" target="ikcr-P05"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P04" source="ikcr" target="ikcr-P04"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P03" source="ikcr" target="ikcr-P03"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P02" source="ikcr" target="ikcr-P02"/>
       <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P01" source="ikcr" target="ikcr-P01"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P02" source="ikcr" target="ikcr-P02"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P03" source="ikcr" target="ikcr-P03"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P04" source="ikcr" target="ikcr-P04"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P05" source="ikcr" target="ikcr-P05"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P06" source="ikcr" target="ikcr-P06"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P07" source="ikcr" target="ikcr-P07"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P08" source="ikcr" target="ikcr-P08"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P09" source="ikcr" target="ikcr-P09"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P10" source="ikcr" target="ikcr-P10"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P11" source="ikcr" target="ikcr-P11"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P12" source="ikcr" target="ikcr-P12"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P13" source="ikcr" target="ikcr-P13"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P14" source="ikcr" target="ikcr-P14"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P15" source="ikcr" target="ikcr-P15"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P16" source="ikcr" target="ikcr-P16"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-P17" source="ikcr" target="ikcr-P17"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z01" source="ikcr" target="ikcr-Z01"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z02" source="ikcr" target="ikcr-Z02"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z03" source="ikcr" target="ikcr-Z03"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z04" source="ikcr" target="ikcr-Z04"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z05" source="ikcr" target="ikcr-Z05"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z06" source="ikcr" target="ikcr-Z06"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z07" source="ikcr" target="ikcr-Z07"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z08" source="ikcr" target="ikcr-Z08"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z09" source="ikcr" target="ikcr-Z09"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z10" source="ikcr" target="ikcr-Z10"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z11" source="ikcr" target="ikcr-Z11"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z12" source="ikcr" target="ikcr-Z12"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z13" source="ikcr" target="ikcr-Z13"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z14" source="ikcr" target="ikcr-Z14"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z15" source="ikcr" target="ikcr-Z15"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z16" source="ikcr" target="ikcr-Z16"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje" id="ikcr___ikcr-Z17" source="ikcr" target="ikcr-Z17"/>
       <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c100" source="ikcr" target="ikcr-c100"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c202" source="ikcr" target="ikcr-c202"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c400" source="ikcr" target="ikcr-c400"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c201" source="ikcr" target="ikcr-c201"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c200" source="ikcr" target="ikcr-c200"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c513" source="ikcr" target="ikcr-c513"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c512" source="ikcr" target="ikcr-c512"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c511" source="ikcr" target="ikcr-c511"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c206" source="ikcr" target="ikcr-c206"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c404" source="ikcr" target="ikcr-c404"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c602" source="ikcr" target="ikcr-c602"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c205" source="ikcr" target="ikcr-c205"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c403" source="ikcr" target="ikcr-c403"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c601" source="ikcr" target="ikcr-c601"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c204" source="ikcr" target="ikcr-c204"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c402" source="ikcr" target="ikcr-c402"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c600" source="ikcr" target="ikcr-c600"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c203" source="ikcr" target="ikcr-c203"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c401" source="ikcr" target="ikcr-c401"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c408" source="ikcr" target="ikcr-c408"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c209" source="ikcr" target="ikcr-c209"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c407" source="ikcr" target="ikcr-c407"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c605" source="ikcr" target="ikcr-c605"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c208" source="ikcr" target="ikcr-c208"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c406" source="ikcr" target="ikcr-c406"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c604" source="ikcr" target="ikcr-c604"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c207" source="ikcr" target="ikcr-c207"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c405" source="ikcr" target="ikcr-c405"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c603" source="ikcr" target="ikcr-c603"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c103" source="ikcr" target="ikcr-c103"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c301" source="ikcr" target="ikcr-c301"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c102" source="ikcr" target="ikcr-c102"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c300" source="ikcr" target="ikcr-c300"/>
       <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c101" source="ikcr" target="ikcr-c101"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c510" source="ikcr" target="ikcr-c510"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c509" source="ikcr" target="ikcr-c509"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c508" source="ikcr" target="ikcr-c508"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c107" source="ikcr" target="ikcr-c107"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c305" source="ikcr" target="ikcr-c305"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c503" source="ikcr" target="ikcr-c503"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c106" source="ikcr" target="ikcr-c106"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c304" source="ikcr" target="ikcr-c304"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c502" source="ikcr" target="ikcr-c502"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c105" source="ikcr" target="ikcr-c105"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c303" source="ikcr" target="ikcr-c303"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c501" source="ikcr" target="ikcr-c501"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c102" source="ikcr" target="ikcr-c102"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c103" source="ikcr" target="ikcr-c103"/>
       <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c104" source="ikcr" target="ikcr-c104"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c302" source="ikcr" target="ikcr-c302"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c500" source="ikcr" target="ikcr-c500"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c507" source="ikcr" target="ikcr-c507"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c308" source="ikcr" target="ikcr-c308"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c506" source="ikcr" target="ikcr-c506"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c307" source="ikcr" target="ikcr-c307"/>
-      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c505" source="ikcr" target="ikcr-c505"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c105" source="ikcr" target="ikcr-c105"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c106" source="ikcr" target="ikcr-c106"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c107" source="ikcr" target="ikcr-c107"/>
       <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c108" source="ikcr" target="ikcr-c108"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c200" source="ikcr" target="ikcr-c200"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c201" source="ikcr" target="ikcr-c201"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c202" source="ikcr" target="ikcr-c202"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c203" source="ikcr" target="ikcr-c203"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c204" source="ikcr" target="ikcr-c204"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c205" source="ikcr" target="ikcr-c205"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c206" source="ikcr" target="ikcr-c206"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c207" source="ikcr" target="ikcr-c207"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c208" source="ikcr" target="ikcr-c208"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c209" source="ikcr" target="ikcr-c209"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c300" source="ikcr" target="ikcr-c300"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c301" source="ikcr" target="ikcr-c301"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c302" source="ikcr" target="ikcr-c302"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c303" source="ikcr" target="ikcr-c303"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c304" source="ikcr" target="ikcr-c304"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c305" source="ikcr" target="ikcr-c305"/>
       <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c306" source="ikcr" target="ikcr-c306"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c307" source="ikcr" target="ikcr-c307"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c308" source="ikcr" target="ikcr-c308"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c400" source="ikcr" target="ikcr-c400"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c401" source="ikcr" target="ikcr-c401"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c402" source="ikcr" target="ikcr-c402"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c403" source="ikcr" target="ikcr-c403"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c404" source="ikcr" target="ikcr-c404"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c405" source="ikcr" target="ikcr-c405"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c406" source="ikcr" target="ikcr-c406"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c407" source="ikcr" target="ikcr-c407"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c408" source="ikcr" target="ikcr-c408"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c500" source="ikcr" target="ikcr-c500"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c501" source="ikcr" target="ikcr-c501"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c502" source="ikcr" target="ikcr-c502"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c503" source="ikcr" target="ikcr-c503"/>
       <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c504" source="ikcr" target="ikcr-c504"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c505" source="ikcr" target="ikcr-c505"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c506" source="ikcr" target="ikcr-c506"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c507" source="ikcr" target="ikcr-c507"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c508" source="ikcr" target="ikcr-c508"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c509" source="ikcr" target="ikcr-c509"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c510" source="ikcr" target="ikcr-c510"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c511" source="ikcr" target="ikcr-c511"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c512" source="ikcr" target="ikcr-c512"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c513" source="ikcr" target="ikcr-c513"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c600" source="ikcr" target="ikcr-c600"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c601" source="ikcr" target="ikcr-c601"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c602" source="ikcr" target="ikcr-c602"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c603" source="ikcr" target="ikcr-c603"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c604" source="ikcr" target="ikcr-c604"/>
+      <element xsi:type="archimate:AssociationRelationship" name="obsahuje cíl" id="ikcr___ikcr-c605" source="ikcr" target="ikcr-c605"/>
+      <element xsi:type="archimate:CompositionRelationship" name="obsahuje navazující dokument" id="ikcr___ikcr-mrict" source="ikcr" target="ikcr-mrict"/>
       <element xsi:type="archimate:CompositionRelationship" name="obsahuje navazující dokument" id="ikcr___ikcr-nap" source="ikcr" target="ikcr-nap"/>
       <element xsi:type="archimate:CompositionRelationship" name="obsahuje navazující dokument" id="ikcr___ikcr-nar" source="ikcr" target="ikcr-nar"/>
-      <element xsi:type="archimate:CompositionRelationship" name="obsahuje navazující dokument" id="ikcr___ikcr-mrict" source="ikcr" target="ikcr-mrict"/>
-      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z10___ikcr-P12" source="ikcr-Z10" target="ikcr-P12"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z01___ikcr-P09" source="ikcr-Z01" target="ikcr-P09"/>
       <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P09" source="ikcr-Z04" target="ikcr-P09"/>
-      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z05___ikcr-P10" source="ikcr-Z05" target="ikcr-P10"/>
-      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P11" source="ikcr-Z04" target="ikcr-P11"/>
       <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P10" source="ikcr-Z04" target="ikcr-P10"/>
-      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z16___ikcr-P04" source="ikcr-Z16" target="ikcr-P04"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P11" source="ikcr-Z04" target="ikcr-P11"/>
       <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P12" source="ikcr-Z04" target="ikcr-P12"/>
-      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P17" source="ikcr-Z04" target="ikcr-P17"/>
       <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P16" source="ikcr-Z04" target="ikcr-P16"/>
-      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P16" source="ikcr-Z13" target="ikcr-P16"/>
-      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P17" source="ikcr-Z13" target="ikcr-P17"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z04___ikcr-P17" source="ikcr-Z04" target="ikcr-P17"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z05___ikcr-P04" source="ikcr-Z05" target="ikcr-P04"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z05___ikcr-P10" source="ikcr-Z05" target="ikcr-P10"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z10___ikcr-P12" source="ikcr-Z10" target="ikcr-P12"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P01" source="ikcr-Z13" target="ikcr-P01"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P02" source="ikcr-Z13" target="ikcr-P02"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P04" source="ikcr-Z13" target="ikcr-P04"/>
       <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P09" source="ikcr-Z13" target="ikcr-P09"/>
       <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P10" source="ikcr-Z13" target="ikcr-P10"/>
-      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z01___ikcr-P09" source="ikcr-Z01" target="ikcr-P09"/>
-      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P04" source="ikcr-Z13" target="ikcr-P04"/>
-      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z05___ikcr-P04" source="ikcr-Z05" target="ikcr-P04"/>
-      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P01" source="ikcr-Z13" target="ikcr-P01"/>
       <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P12" source="ikcr-Z13" target="ikcr-P12"/>
-      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P02" source="ikcr-Z13" target="ikcr-P02"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P16" source="ikcr-Z13" target="ikcr-P16"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z13___ikcr-P17" source="ikcr-Z13" target="ikcr-P17"/>
+      <element xsi:type="archimate:AssociationRelationship" name="souvisí" id="ikcr-Z16___ikcr-P04" source="ikcr-Z16" target="ikcr-P04"/>
     </folder>
   </folder>
-  <folder name="Views" id="id-3e23e947d3e54e009c2062ded3f14e52" type="diagrams"/>
+  <folder name="Views" id="id-3e23e947d3e54e009c2062ded3f14e52" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Schéma architektonických principů a zásad z IKČR" id="id-5ca3fa6f3f3a4457bc34cb64a2f646c8">
+      <child xsi:type="archimate:DiagramObject" id="id-604506e6fcb84bd98239dc16f5ba7ba7" targetConnections="id-79d380e4493b4ddd9132e2c694710dab" archimateElement="ikcr-Z01">
+        <bounds x="528" y="1068" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-4f5bdd8e8df4423a80da7f2c4e483245" source="id-604506e6fcb84bd98239dc16f5ba7ba7" target="id-d5331f5d1c914128adc8bf6b957908a1" archimateRelationship="ikcr-Z01___ikcr-P09"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-a366a6cc30fb470cb8d9fefa40adeaf8" targetConnections="id-6aeeaf026f944a5a80a25925c073ac9c" archimateElement="ikcr-Z02">
+        <bounds x="250" y="48" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-52c8c1bf2ca84142a594157066b70ef8" targetConnections="id-4000ec0b83c54d5bb90288404005c149" archimateElement="ikcr-Z03">
+        <bounds x="384" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" targetConnections="id-6bf402fe502748cda296ea38855b5b46" archimateElement="ikcr-Z04">
+        <bounds x="1536" y="1320" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-4d05616579df4733b9f8b884a7f9da7b" source="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" target="id-d5331f5d1c914128adc8bf6b957908a1" archimateRelationship="ikcr-Z04___ikcr-P09"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-766b194d61ce4c8bb330803859bef854" source="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" target="id-4069945de3664e0d86165a063ea9e2da" archimateRelationship="ikcr-Z04___ikcr-P10"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-f8d32cba415d4d78a3e9b996404bbf97" source="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" target="id-f2fea7ce556d4a4e9cb13f9a51b203d1" archimateRelationship="ikcr-Z04___ikcr-P11"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-74616f65f3c547a4b56c9ad5cdf18165" source="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" target="id-4792dcd3e5aa40c7be323bed1227484c" archimateRelationship="ikcr-Z04___ikcr-P12"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-1fa0b539e8974108bbcba6e6efb35622" source="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" target="id-def30be5494f4c2d9a3d81b417527c0b" archimateRelationship="ikcr-Z04___ikcr-P16"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-63fd3969a2454070b072a028568bbe81" source="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" target="id-a0345307cbe8490f9f92932f28df802b" archimateRelationship="ikcr-Z04___ikcr-P17"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-871cfc8785e64d0ba4e85aa9a5e35936" targetConnections="id-a641e1617f0d4cada2410d26fac82711" archimateElement="ikcr-Z05">
+        <bounds x="1428" y="660" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-db079e13dc914888bf6d4515dc9d0a7c" source="id-871cfc8785e64d0ba4e85aa9a5e35936" target="id-8714b0a774134572bacefb69ebc6ad01" archimateRelationship="ikcr-Z05___ikcr-P04"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-dc82f94b3e4f4afd9ed4af3863b6f6c8" source="id-871cfc8785e64d0ba4e85aa9a5e35936" target="id-4069945de3664e0d86165a063ea9e2da" archimateRelationship="ikcr-Z05___ikcr-P10"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-1cb8210064554dd39864126b498084cd" targetConnections="id-f57900a49b64458b8e68ca5ee3a8c227" archimateElement="ikcr-Z06">
+        <bounds x="528" y="-26" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-988a40e53226407cb2cb094ee6e59b40" targetConnections="id-469738d3e641460095ed4115384bac69" archimateElement="ikcr-Z07">
+        <bounds x="696" y="-36" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-e84de1395adb43ff8cc90cbacfd52465" targetConnections="id-025b0df24de4453ea19191981b22372e" archimateElement="ikcr-Z08">
+        <bounds x="167" y="132" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-db2f1d9ac3414d74aa7b16a7b40d4d6b" targetConnections="id-66770d7f397c461c8ff7b00410c18ba2" archimateElement="ikcr-Z09">
+        <bounds x="108" y="216" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-31c9b583e5054204b4bf2673fa41b4d8" targetConnections="id-28729d82f37c43508b15b8a690104ddb" archimateElement="ikcr-Z10">
+        <bounds x="1056" y="1104" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-82cbca343fcb4b1182a3d8e6772132de" source="id-31c9b583e5054204b4bf2673fa41b4d8" target="id-4792dcd3e5aa40c7be323bed1227484c" archimateRelationship="ikcr-Z10___ikcr-P12"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-6d9c1b30a11c42868ad4ab168810b727" targetConnections="id-34b7012f1ab14ae5a4c3c6a758948f2f" archimateElement="ikcr-Z11">
+        <bounds x="48" y="312" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-5317782827e44659b56f110c52755de2" targetConnections="id-a2a549f4860940a28b7c882a1aad28a7" archimateElement="ikcr-Z12">
+        <bounds x="36" y="408" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" targetConnections="id-a5b9c096f0384731939502e946db1dc1" archimateElement="ikcr-Z13">
+        <bounds x="12" y="1452" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-dd6bd7b542c0465cbbc53433e908c54f" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-5eaa3acd2e8f4a059270e3eb86f300c0" archimateRelationship="ikcr-Z13___ikcr-P01"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-0b4edd3b28bb4a4f805fa0de0a5c4958" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-ba03dc0a61284a1db5a3e382b25a61c5" archimateRelationship="ikcr-Z13___ikcr-P02"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-f493135cf42e421f86bafa341bc014fb" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-8714b0a774134572bacefb69ebc6ad01" archimateRelationship="ikcr-Z13___ikcr-P04"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-d39763d8a0524479a620a5194cf9f99a" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-d5331f5d1c914128adc8bf6b957908a1" archimateRelationship="ikcr-Z13___ikcr-P09"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-eddd859f02db4150a65afeaa098a1042" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-4069945de3664e0d86165a063ea9e2da" archimateRelationship="ikcr-Z13___ikcr-P10"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-812638e80eeb4c4989124370cdd52d61" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-4792dcd3e5aa40c7be323bed1227484c" archimateRelationship="ikcr-Z13___ikcr-P12"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-0bf7eac2f42849e6bdd1963385809270" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-def30be5494f4c2d9a3d81b417527c0b" archimateRelationship="ikcr-Z13___ikcr-P16"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-75ab7976ef3e46f6aecb217887a1466d" source="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" target="id-a0345307cbe8490f9f92932f28df802b" archimateRelationship="ikcr-Z13___ikcr-P17"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-82857855795b48bb848d0fb633fb11da" targetConnections="id-ae4c105379a8485c91da0574bf0c092f" archimateElement="ikcr-Z14">
+        <bounds x="36" y="504" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-430a7922b2284fba8fb86831364823d7" targetConnections="id-2705506798a44c9b977263b9373528fe" archimateElement="ikcr-Z15">
+        <bounds x="48" y="600" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-0dcd5032bac24d66853a264edf598113" targetConnections="id-3a27c25528a24ae09cd25d9363b63c76" archimateElement="ikcr-Z16">
+        <bounds x="1645" y="636" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-436ffdbe88af49e3a95b66cfac5448fd" source="id-0dcd5032bac24d66853a264edf598113" target="id-8714b0a774134572bacefb69ebc6ad01" archimateRelationship="ikcr-Z16___ikcr-P04"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-6f524a15de814cb6b942931d8cd365ee" targetConnections="id-e290121dc70e40f9a14a39faedb11c67" archimateElement="ikcr-Z17">
+        <bounds x="59" y="696" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-d5331f5d1c914128adc8bf6b957908a1" targetConnections="id-4f5bdd8e8df4423a80da7f2c4e483245 id-4d05616579df4733b9f8b884a7f9da7b id-d39763d8a0524479a620a5194cf9f99a id-0294cb263a4b4c33b94b4d18be879c0e" archimateElement="ikcr-P09">
+        <bounds x="298" y="1236" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-e5ca1edd668943a299a2ccc3780148a9" archimateElement="ikcr">
+        <bounds x="804" y="486" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-e2b1336f733a43608cc105e28b372e92" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-5eaa3acd2e8f4a059270e3eb86f300c0" archimateRelationship="ikcr___ikcr-P01"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-a432fb82712d43bbaf83fbccc40f94ac" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-ba03dc0a61284a1db5a3e382b25a61c5" archimateRelationship="ikcr___ikcr-P02"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-1e3a45ffcb5b4c4eb03873fcf29f7aef" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-8714b0a774134572bacefb69ebc6ad01" archimateRelationship="ikcr___ikcr-P04"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-0294cb263a4b4c33b94b4d18be879c0e" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-d5331f5d1c914128adc8bf6b957908a1" archimateRelationship="ikcr___ikcr-P09"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-2e4e3871eedc4ec1a24b0f2559be93ab" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-4069945de3664e0d86165a063ea9e2da" archimateRelationship="ikcr___ikcr-P10"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-2b64eec96b214f928eb1d73d0ecb2c31" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-f2fea7ce556d4a4e9cb13f9a51b203d1" archimateRelationship="ikcr___ikcr-P11"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-5379f4d4dfd846a89ecd7687d7b789b5" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-4792dcd3e5aa40c7be323bed1227484c" archimateRelationship="ikcr___ikcr-P12"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-6d703ba1e29b43c998053a903272665e" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-def30be5494f4c2d9a3d81b417527c0b" archimateRelationship="ikcr___ikcr-P16"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-e53dd0767b924332965d7c086b294928" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-a0345307cbe8490f9f92932f28df802b" archimateRelationship="ikcr___ikcr-P17"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-79d380e4493b4ddd9132e2c694710dab" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-604506e6fcb84bd98239dc16f5ba7ba7" archimateRelationship="ikcr___ikcr-Z01"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-6aeeaf026f944a5a80a25925c073ac9c" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-a366a6cc30fb470cb8d9fefa40adeaf8" archimateRelationship="ikcr___ikcr-Z02"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-4000ec0b83c54d5bb90288404005c149" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-52c8c1bf2ca84142a594157066b70ef8" archimateRelationship="ikcr___ikcr-Z03"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-6bf402fe502748cda296ea38855b5b46" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-4ffb99dc4eeb4c4187f9843ec0e8d71f" archimateRelationship="ikcr___ikcr-Z04"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-a641e1617f0d4cada2410d26fac82711" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-871cfc8785e64d0ba4e85aa9a5e35936" archimateRelationship="ikcr___ikcr-Z05"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-f57900a49b64458b8e68ca5ee3a8c227" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-1cb8210064554dd39864126b498084cd" archimateRelationship="ikcr___ikcr-Z06"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-469738d3e641460095ed4115384bac69" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-988a40e53226407cb2cb094ee6e59b40" archimateRelationship="ikcr___ikcr-Z07"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-025b0df24de4453ea19191981b22372e" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-e84de1395adb43ff8cc90cbacfd52465" archimateRelationship="ikcr___ikcr-Z08"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-66770d7f397c461c8ff7b00410c18ba2" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-db2f1d9ac3414d74aa7b16a7b40d4d6b" archimateRelationship="ikcr___ikcr-Z09"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-28729d82f37c43508b15b8a690104ddb" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-31c9b583e5054204b4bf2673fa41b4d8" archimateRelationship="ikcr___ikcr-Z10"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-34b7012f1ab14ae5a4c3c6a758948f2f" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-6d9c1b30a11c42868ad4ab168810b727" archimateRelationship="ikcr___ikcr-Z11"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-a2a549f4860940a28b7c882a1aad28a7" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-5317782827e44659b56f110c52755de2" archimateRelationship="ikcr___ikcr-Z12"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-a5b9c096f0384731939502e946db1dc1" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-0ef84a8aaa6c4e9c8e3488d87f6a2931" archimateRelationship="ikcr___ikcr-Z13"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-ae4c105379a8485c91da0574bf0c092f" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-82857855795b48bb848d0fb633fb11da" archimateRelationship="ikcr___ikcr-Z14"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-2705506798a44c9b977263b9373528fe" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-430a7922b2284fba8fb86831364823d7" archimateRelationship="ikcr___ikcr-Z15"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-3a27c25528a24ae09cd25d9363b63c76" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-0dcd5032bac24d66853a264edf598113" archimateRelationship="ikcr___ikcr-Z16"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-e290121dc70e40f9a14a39faedb11c67" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-6f524a15de814cb6b942931d8cd365ee" archimateRelationship="ikcr___ikcr-Z17"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-1074fcdb8fe64d3d95826c620a301fed" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-4a9a159d457a4c75be796d3a6411c762" archimateRelationship="ikcr___ikcr-P03"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-0348ebaa2acb4e4dbdfd195374096e7d" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-af48c8b93b4e44acae6f1f003cf6202e" archimateRelationship="ikcr___ikcr-P05"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-2c212786360448e5b8e1a2b3001b1e3d" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-a8057b04ac1e42d2a305f539229f5d80" archimateRelationship="ikcr___ikcr-P06"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-cca1fc759b9b4da698a1745cdf6bbadc" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-97fb6cf2ab8b4771acd8a93adcd972fd" archimateRelationship="ikcr___ikcr-P07"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-b6bb4828103546a28b8cf035154dbe5b" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-f195a0588d24454f9bab0eaf40873cd3" archimateRelationship="ikcr___ikcr-P08"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-cd2ad17130db481286e7a795571ae65b" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-4cd9cd25c18348ef8b67585d5f7d1004" archimateRelationship="ikcr___ikcr-P13"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-b0c203aba61a49f3ad57f733c3cbbad6" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-8021a47cf9034940b2eea49c79cf5809" archimateRelationship="ikcr___ikcr-P14"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-666c6f2037d04e8f84dcfd0f0a613281" source="id-e5ca1edd668943a299a2ccc3780148a9" target="id-9b0a472e17e04e2bb33d5a04f4c19ac1" archimateRelationship="ikcr___ikcr-P15"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-4069945de3664e0d86165a063ea9e2da" targetConnections="id-766b194d61ce4c8bb330803859bef854 id-dc82f94b3e4f4afd9ed4af3863b6f6c8 id-eddd859f02db4150a65afeaa098a1042 id-2e4e3871eedc4ec1a24b0f2559be93ab" archimateElement="ikcr-P10">
+        <bounds x="1056" y="894" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-f2fea7ce556d4a4e9cb13f9a51b203d1" targetConnections="id-f8d32cba415d4d78a3e9b996404bbf97 id-2b64eec96b214f928eb1d73d0ecb2c31" archimateElement="ikcr-P11">
+        <bounds x="1428" y="768" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-4792dcd3e5aa40c7be323bed1227484c" targetConnections="id-74616f65f3c547a4b56c9ad5cdf18165 id-82cbca343fcb4b1182a3d8e6772132de id-812638e80eeb4c4989124370cdd52d61 id-5379f4d4dfd846a89ecd7687d7b789b5" archimateElement="ikcr-P12">
+        <bounds x="1344" y="876" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-def30be5494f4c2d9a3d81b417527c0b" targetConnections="id-1fa0b539e8974108bbcba6e6efb35622 id-0bf7eac2f42849e6bdd1963385809270 id-6d703ba1e29b43c998053a903272665e" archimateElement="ikcr-P16">
+        <bounds x="708" y="1386" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-a0345307cbe8490f9f92932f28df802b" targetConnections="id-63fd3969a2454070b072a028568bbe81 id-75ab7976ef3e46f6aecb217887a1466d id-e53dd0767b924332965d7c086b294928" archimateElement="ikcr-P17">
+        <bounds x="937" y="1224" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-8714b0a774134572bacefb69ebc6ad01" targetConnections="id-db079e13dc914888bf6d4515dc9d0a7c id-f493135cf42e421f86bafa341bc014fb id-436ffdbe88af49e3a95b66cfac5448fd id-1e3a45ffcb5b4c4eb03873fcf29f7aef" archimateElement="ikcr-P04">
+        <bounds x="1764" y="1416" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-5eaa3acd2e8f4a059270e3eb86f300c0" targetConnections="id-dd6bd7b542c0465cbbc53433e908c54f id-e2b1336f733a43608cc105e28b372e92" archimateElement="ikcr-P01">
+        <bounds x="178" y="948" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-ba03dc0a61284a1db5a3e382b25a61c5" targetConnections="id-0b4edd3b28bb4a4f805fa0de0a5c4958 id-a432fb82712d43bbaf83fbccc40f94ac" archimateElement="ikcr-P02">
+        <bounds x="108" y="816" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-4a9a159d457a4c75be796d3a6411c762" targetConnections="id-1074fcdb8fe64d3d95826c620a301fed" archimateElement="ikcr-P03">
+        <bounds x="876" y="-36" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-af48c8b93b4e44acae6f1f003cf6202e" targetConnections="id-0348ebaa2acb4e4dbdfd195374096e7d" archimateElement="ikcr-P05">
+        <bounds x="1020" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-a8057b04ac1e42d2a305f539229f5d80" targetConnections="id-2c212786360448e5b8e1a2b3001b1e3d" archimateElement="ikcr-P06">
+        <bounds x="1163" y="78" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-97fb6cf2ab8b4771acd8a93adcd972fd" targetConnections="id-cca1fc759b9b4da698a1745cdf6bbadc" archimateElement="ikcr-P07">
+        <bounds x="1249" y="168" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-f195a0588d24454f9bab0eaf40873cd3" targetConnections="id-b6bb4828103546a28b8cf035154dbe5b" archimateElement="ikcr-P08">
+        <bounds x="1320" y="264" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-4cd9cd25c18348ef8b67585d5f7d1004" targetConnections="id-cd2ad17130db481286e7a795571ae65b" archimateElement="ikcr-P13">
+        <bounds x="1368" y="342" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-8021a47cf9034940b2eea49c79cf5809" targetConnections="id-b0c203aba61a49f3ad57f733c3cbbad6" archimateElement="ikcr-P14">
+        <bounds x="1403" y="432" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-9b0a472e17e04e2bb33d5a04f4c19ac1" targetConnections="id-666c6f2037d04e8f84dcfd0f0a613281" archimateElement="ikcr-P15">
+        <bounds x="1416" y="540" width="120" height="55"/>
+      </child>
+    </element>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-9a9ccf3b8d034f9e904d9f6cf41d8bfd"/>
+  </folder>
 </archimate:model>
